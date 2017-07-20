@@ -1,0 +1,4 @@
+[submodule "themes/academic"]
+	path = themes/academic
+    url = https://github.com/seisman/hugo-academic.git
+	branch = seisman
