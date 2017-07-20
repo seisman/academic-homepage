@@ -19,4 +19,3 @@ count = 10
 detailed_list = false
 
 +++
-

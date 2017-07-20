@@ -20,15 +20,15 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Dongdong Tian"
-  role = "PhD Student in Geophysics"
+  role = "PhD Candidate in Geophysics"
   organization = "University of Science and Technology of China"
-  organization_url = "http://www.ustc.edu.cn/"
+  organization_url = "http://en.ustc.edu.cn/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"
   email = "dongzhi@mail.ustc.edu.cn"
   address = "No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, China."
   office_hours = ""
-  phone = ""
+  phone = "+86-15055117035"
   skype = ""
   telegram = ""
 
@@ -76,13 +76,13 @@ defaultContentLanguageInSubdir = false
   #
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
-  highlight = true
+  highlight = false
   highlight_languages = []
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -124,19 +124,14 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
   [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:dongzhi@mail.ustc.edu.cn"
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0001-7967-1197"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=VITag6sAAAAJ"
-
-  [[params.social]]
-    icon = "orcid"
-    icon_pack = "ai"
-    link = "http://orcid.org/0000-0001-7967-1197"
 
   [[params.social]]
     icon = "researchgate"
@@ -148,6 +143,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/seisman"
 
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:dongzhi@mail.ustc.edu.cn"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -193,7 +192,6 @@ defaultContentLanguageInSubdir = false
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
-[languages]
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
@@ -205,7 +203,7 @@ defaultContentLanguageInSubdir = false
 [languages.zh.params]
   name = "田冬冬"
   role = "地球物理学在读博士生"
-  organization = "University of Science and Technology of China"
+  organization = "中国科学技术大学"
   organization_url = "http://www.ustc.edu.cn/"
 
 [[languages.zh.menu.main]]

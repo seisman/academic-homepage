@@ -1,5 +1,9 @@
 +++
+# About/Biography widget.
+
 date = "2017-07-16T00:00:00"
+draft = false
+
 widget = "about"
 
 # Order that this section will appear in.
@@ -16,18 +20,18 @@ weight = 1
 [[education.courses]]
   course = "PhD in Geophysics"
   institution = "University of Science and Technology of China"
-  year = "2012-now"
+  year = "2018 (expected)"
 
 [[education.courses]]
   course = "BSc in Geophysics"
   institution = "University of Science and Technology of China"
-  year = "2008-2012"
+  year = "2012"
 
 +++
 
-Dongdong Tian is a PhD student in Geophysics at University of Science
+Dongdong Tian is a PhD Candidate in Geophysics at University of Science
 and Technology of China.
 His supervisor is Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 His research interests include the structure of the Earth's deep interior
-and numerical simulation of seismic wavefield propagation.
+and numerical simulations of seismic wavefield propagation.

@@ -20,12 +20,12 @@ weight = 1
 [[education.courses]]
   course = "博士, 地球物理学"
   institution = "中国科学技术大学"
-  year = "2012-now"
+  year = "2018 (预期)"
 
 [[education.courses]]
   course = "学士, 地球物理学"
   institution = "中国科学技术大学"
-  year = "2008-2012"
+  year = "2012"
 
 +++
 
