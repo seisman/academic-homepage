@@ -13,4 +13,4 @@ script:
   - ./hugo
 
 after_success:
-  - lftp ftp://${USER}:${PASSWD}@home.ustc.edu.cn/ -e "mirror -R ./public /public_html; quit"
+  - lftp -c "set ftps:initial-prot ''; set ftp:ssl-force true; set ftp:ssl-protect-data true; open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
