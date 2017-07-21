@@ -164,24 +164,29 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 3
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Software"
   url = "#software"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Links"
   url = "#links"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
@@ -200,11 +205,13 @@ defaultContentLanguageInSubdir = false
 [languages.zh]
   languageCode = "zh-cn"
 
-[languages.zh.params]
+#[languages.zh.params]
+# see https://github.com/gcushen/hugo-academic/issues/213
   name = "田冬冬"
   role = "地球物理学在读博士生"
   organization = "中国科学技术大学"
   organization_url = "http://www.ustc.edu.cn/"
+  address = "安徽省合肥市中国科学技术大学"
 
 [[languages.zh.menu.main]]
   name = "首页"
@@ -217,21 +224,26 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[languages.zh.menu.main]]
+  name = "报告"
+  url = "#talks"
+  weight = 3
+
+[[languages.zh.menu.main]]
   name = "项目"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[languages.zh.menu.main]]
   name = "软件"
   url = "#software"
-  weight = 4
+  weight = 5
 
 [[languages.zh.menu.main]]
   name = "链接"
   url = "#links"
-  weight = 5
+  weight = 6
 
 [[languages.zh.menu.main]]
   name = "联系方式"
   url = "#contact"
-  weight = 6
+  weight = 7
