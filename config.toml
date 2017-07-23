@@ -213,6 +213,16 @@ defaultContentLanguageInSubdir = false
   organization_url = "http://www.ustc.edu.cn/"
   address = "安徽省合肥市中国科学技术大学"
 
+  publication_types = [
+    '未分类',  # 0
+    '会议论文集',  # 1
+    '期刊论文',  # 2
+    '待发表论文',  # 3
+    '技术报告',  # 4
+    '书籍',  # 5
+    '书籍章节'  # 6
+  ]
+
 [[languages.zh.menu.main]]
   name = "首页"
   url = "#about"

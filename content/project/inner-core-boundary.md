@@ -23,10 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/bubbles-wide.jpg"
-#image = "PKiKP-Raypath.png"
+image = ""
 caption = ""
-
 +++
 
 The fine scale structure of the Earth's inner core boundary is important for
