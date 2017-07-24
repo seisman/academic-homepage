@@ -14,12 +14,13 @@ googleAnalytics = ""
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+hasCJKLanguage = true
 
 [blackfriday]
   hrefTargetBlank = true
 
 [params]
-  name = "Dongdong Tian"
+  name = "Dongdong TIAN"
   role = "PhD Candidate in Geophysics"
   organization = "University of Science and Technology of China"
   organization_url = "http://en.ustc.edu.cn/"
@@ -86,7 +87,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ['custom.css']
   custom_js  = []
 
   # Publication types.
@@ -211,7 +212,7 @@ defaultContentLanguageInSubdir = false
   role = "地球物理学在读博士生"
   organization = "中国科学技术大学"
   organization_url = "http://www.ustc.edu.cn/"
-  address = "安徽省合肥市中国科学技术大学"
+  address = "安徽省 合肥市 中国科学技术大学东区 教学行政楼 1127室"
 
   publication_types = [
     '未分类',  # 0
