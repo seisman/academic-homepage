@@ -13,9 +13,9 @@ weight = 61
 
 ## EBooks
 
-- [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/): SAC Reference Manual powered by LaTeX (in Chinese)
-- [GMT Reference Manual](http://docs.gmt-china.org/): GMT Referenece Manaul powered by Sphinx (in Chinese)
-- [GMT Modules Manual](http://modules.gmt-china.org/): Manaul for GMT modules powered by Sphinx (in Chinese)
+- [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (in Chinese)
+- [GMT Reference Manual](http://docs.gmt-china.org/) (in Chinese)
+- [GMT Modules Manual](http://modules.gmt-china.org/) (in Chinese)
 
 ## Websites
 
