@@ -29,11 +29,15 @@ weight = 1
 
 +++
 
-Dongdong Tian is a PhD Candidate in Geophysics at University of Science
-and Technology of China.
+Dongdong Tian is a PhD Candidate in Geophysics at
+[University of Science and Technology of China](http://en.ustc.edu.cn/).
 His supervisor is Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 His research interests include the structure of the Earth's deep interior
 and numerical simulations of seismic wavefield propagation.
+He's working on projects of fine-scale structure of the Earth's inner core boundary.
 
-He's working on the fine-scale structure of the Earth's inner core boundary.
+He's a fan of open source and also contributes to open source softwares, such as
+[GMT](http://gmt.soest.hawaii.edu/),
+[SAC](https://seiscode.iris.washington.edu/projects/sac)
+and [ObsPy](http://docs.obspy.org/).

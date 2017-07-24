@@ -29,8 +29,8 @@ weight = 1
 
 +++
 
-田冬冬，中国科学技术大学地球物理学在读博士生，指导老师是[温联星](http://geophysics.geo.sunysb.edu/wen/)教授。
+田冬冬，[中国科学技术大学](http://www.ustc.edu.cn/)地球物理学在读博士生，指导老师是[温联星](http://geophysics.geo.sunysb.edu/wen/)教授。
 
-主要研究方向包括地球深部结构以及波传播的数值模拟。
+他的主要研究兴趣包括地球深部结构以及波传播的数值模拟，目前研究的课题是内核边界的精细结构。
 
-目前主要研究内核边界的精细结构。
+他是开源爱好者，同时也在向 [GMT](http://gmt.soest.hawaii.edu/)、[SAC](https://seiscode.iris.washington.edu/projects/sac)、[ObsPy](http://docs.obspy.org/) 等开源软件贡献代码。
