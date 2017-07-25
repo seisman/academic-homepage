@@ -35,7 +35,8 @@ His supervisor is Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 His research interests include the structure of the Earth's deep interior
 and numerical simulations of seismic wavefield propagation.
-He's working on projects of fine-scale structure of the Earth's inner core boundary.
+He's working on projects of
+[fine-scale structure of the Earth's inner core boundary](project/inner-core-boundary).
 
 He's a fan of open source and also contributes to open source softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
