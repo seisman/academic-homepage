@@ -160,18 +160,18 @@ hasCJKLanguage = true
   weight = 1
 
 [[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 3
-
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
   weight = 4
 
 [[menu.main]]
@@ -230,18 +230,18 @@ hasCJKLanguage = true
   weight = 1
 
 [[languages.zh.menu.main]]
+  name = "项目"
+  url = "#projects"
+  weight = 2
+
+[[languages.zh.menu.main]]
   name = "文章"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[languages.zh.menu.main]]
   name = "报告"
   url = "#talks"
-  weight = 3
-
-[[languages.zh.menu.main]]
-  name = "项目"
-  url = "#projects"
   weight = 4
 
 [[languages.zh.menu.main]]
