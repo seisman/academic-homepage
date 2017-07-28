@@ -33,4 +33,4 @@ weight = 1
 
 他的主要研究兴趣包括地球深部结构以及波传播的数值模拟，目前研究的课题是[内核边界的精细结构](project/inner-core-boundary)。
 
-他是开源爱好者，同时也在向 [GMT](http://gmt.soest.hawaii.edu/)、[SAC](https://seiscode.iris.washington.edu/projects/sac)、[ObsPy](http://docs.obspy.org/) 等开源软件贡献代码。
+他是开源爱好者，同时也在向 [GMT](http://gmt.soest.hawaii.edu/)、[SAC](https://seiscode.iris.washington.edu/projects/sac)、[ObsPy](http://docs.obspy.org/) 等地球物理相关软件贡献代码。

@@ -38,7 +38,7 @@ and numerical simulations of seismic wavefield propagation.
 He's working on projects of
 [fine-scale structure of the Earth's inner core boundary](project/inner-core-boundary).
 
-He's a fan of open source and also contributes to open source softwares, such as
+He's a fan of open source and also contributes to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
 [SAC](https://seiscode.iris.washington.edu/projects/sac)
 and [ObsPy](http://docs.obspy.org/).
