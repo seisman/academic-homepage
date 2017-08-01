@@ -15,12 +15,8 @@ math = false
 
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "http://dx.doi.org/10.1002/2015JB012282"
 url_project = ""
 url_slides = ""
 url_video = ""
-
-[[url_custom]]
-name = "DOI: 10.1002/2015JB012282"
-url = "http://dx.doi.org/10.1002/2015JB012282"
 +++

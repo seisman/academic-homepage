@@ -15,12 +15,8 @@ math = false
 
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/Zhang-2014-GJI.pdf"
+url_pdf = "https://doi.org/10.1093/gji/ggu044"
 url_project = ""
 url_slides = ""
 url_video = ""
-
-[[url_custom]]
-name = "DOI: 10.1093/gji/ggu044"
-url = "https://doi.org/10.1093/gji/ggu044"
 +++
