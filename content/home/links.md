@@ -19,5 +19,4 @@ weight = 61
 
 ## Websites
 
-- [SeisMan](http://seisman.info/): My academic blog (in Chinese)
 - [GMT Chinese Community](http://gmt-china.org/) (in Chinese)

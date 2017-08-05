@@ -145,6 +145,11 @@ hasCJKLanguage = true
     link = "//github.com/seisman"
 
   [[params.social]]
+    icon = "globe"
+    icon_pack = "fa"
+    link = "http://seisman.info"
+
+  [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:dongzhi@mail.ustc.edu.cn"

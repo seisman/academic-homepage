@@ -19,5 +19,4 @@ weight = 61
 
 ## 网站
 
-- [SeisMan](http://seisman.info/): 我的学术博客
 - [GMT中文社区](http://gmt-china.org/)
