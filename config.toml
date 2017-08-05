@@ -180,9 +180,14 @@ hasCJKLanguage = true
   weight = 4
 
 [[menu.main]]
+  name = "Activities"
+  url = "#activity"
+  weight = 5
+
+[[menu.main]]
   name = "Software"
   url = "#software"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Contact"
@@ -247,9 +252,14 @@ hasCJKLanguage = true
   weight = 4
 
 [[languages.zh.menu.main]]
+  name = "学术活动"
+  url = "#activity"
+  weight = 5
+
+[[languages.zh.menu.main]]
   name = "软件"
   url = "#software"
-  weight = 5
+  weight = 6
 
 [[languages.zh.menu.main]]
   name = "联系方式"
