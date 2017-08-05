@@ -29,7 +29,3 @@ caption = ""
 +++
 
 内核边界精细结构对于研究地球的演化历史具有重要意义。
-
-## 文章
-
-- [Seismological evidence for a localized mushy zone at the Earth's inner core boundary]({{< relref "publication/mushy-inner-core-boundary.md" >}})

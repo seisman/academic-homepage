@@ -29,7 +29,3 @@ caption = ""
 
 The fine scale structure of the Earth's inner core boundary is important for
 our understanding of the Earth.
-
-## Publications
-
-- [Seismological evidence for a localized mushy zone at the Earth's inner core boundary]({{< relref "publication/mushy-inner-core-boundary.md" >}})
