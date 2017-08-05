@@ -16,7 +16,7 @@ selected = true
 url_code = ""
 url_dataset = ""
 url_pdf = "http://dx.doi.org/10.1038/s41467-017-00229-9"
-url_project = "zh/project/inner-core-boundary"
+url_project = "project/inner-core-boundary"
 url_slides = ""
 url_video = ""
 +++
