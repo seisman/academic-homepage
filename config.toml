@@ -214,6 +214,8 @@ hasCJKLanguage = true
   organization_url = "http://www.ustc.edu.cn/"
   address = "安徽省 合肥市 中国科学技术大学东区 教学行政楼 1127室"
 
+  date_format = "2006年1月2日"
+
   publication_types = [
     '未分类',  # 0
     '会议论文集',  # 1
