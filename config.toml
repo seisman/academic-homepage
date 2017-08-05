@@ -185,11 +185,6 @@ hasCJKLanguage = true
   weight = 5
 
 [[menu.main]]
-  name = "Links"
-  url = "#links"
-  weight = 6
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 7
@@ -255,11 +250,6 @@ hasCJKLanguage = true
   name = "软件"
   url = "#software"
   weight = 5
-
-[[languages.zh.menu.main]]
-  name = "链接"
-  url = "#links"
-  weight = 6
 
 [[languages.zh.menu.main]]
   name = "联系方式"
