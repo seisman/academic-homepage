@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "最新报告"
 date = "2017-01-01T00:00:00Z"
 math = false
 highlight = false
