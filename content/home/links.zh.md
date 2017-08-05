@@ -11,11 +11,6 @@ weight = 61
 
 +++
 
-## 电子书
-
-- [SAC参考手册](https://seisman.github.io/SAC_Docs_zh/)中文版
-- [GMT参考手册](http://docs.gmt-china.org/)中文版
-- [GMT模块手册](http://modules.gmt-china.org/)中文版
 
 ## 网站
 

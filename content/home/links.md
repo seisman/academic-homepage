@@ -11,11 +11,6 @@ weight = 61
 
 +++
 
-## EBooks
-
-- [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (in Chinese)
-- [GMT Reference Manual](http://docs.gmt-china.org/) (in Chinese)
-- [GMT Modules Manual](http://modules.gmt-china.org/) (in Chinese)
 
 ## Websites
 
