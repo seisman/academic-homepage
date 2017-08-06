@@ -2,7 +2,7 @@
 date = "2017-07-20T00:00:00"
 draft = false
 
-title = "Software"
+title = "Resources"
 subtitle = "Softwares & Documentations"
 widget = "custom"
 
@@ -11,11 +11,11 @@ weight = 60
 
 +++
 
-## Software
+## Softwares
 
 - [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/).
 
-## EBooks
+## Documentations
 
 - [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (in Chinese)
 - [GMT Reference Manual](http://docs.gmt-china.org/) (in Chinese)

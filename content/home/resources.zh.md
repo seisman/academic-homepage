@@ -2,7 +2,7 @@
 date = "2017-07-20T00:00:00"
 draft = false
 
-title = "软件"
+title = "资源下载"
 subtitle = "软件&文档"
 widget = "custom"
 

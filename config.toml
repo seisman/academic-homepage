@@ -185,8 +185,8 @@ hasCJKLanguage = true
   weight = 5
 
 [[menu.main]]
-  name = "Software"
-  url = "#software"
+  name = "Resources"
+  url = "#resources"
   weight = 6
 
 [[menu.main]]
@@ -257,8 +257,8 @@ hasCJKLanguage = true
   weight = 5
 
 [[languages.zh.menu.main]]
-  name = "软件"
-  url = "#software"
+  name = "资源下载"
+  url = "#resources"
   weight = 6
 
 [[languages.zh.menu.main]]
