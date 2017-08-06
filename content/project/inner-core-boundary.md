@@ -27,5 +27,9 @@ image = ""
 caption = ""
 +++
 
-The fine scale structure of the Earth's inner core boundary is important for
-our understanding of the Earth.
+The Earth's solid inner core grows from the solidification of the liquid
+outer core. The solidification process releases latent heat and expels
+light elements, providing driving forces for the outer core convection
+and the geodynamo which generates the Earth's magnetic field.
+Thus, the information of the Earth's inner core boundary is
+important for our understanding of the thermo-compositional state of the Earth's core.
