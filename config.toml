@@ -175,6 +175,11 @@ hasCJKLanguage = true
   weight = 3
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 4
+
+[[menu.main]]
   name = "Resources"
   url = "#resources"
   weight = 6
@@ -235,6 +240,11 @@ hasCJKLanguage = true
   name = "文章"
   url = "#publications_selected"
   weight = 3
+
+[[languages.zh.menu.main]]
+  name = "报告"
+  url = "#talks"
+  weight = 4
 
 [[languages.zh.menu.main]]
   name = "资源下载"
