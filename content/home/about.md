@@ -13,7 +13,9 @@ weight = 1
 [interests]
   interests = [
     "Structure of the Earth's Deep Interior",
-    "Numerical Simulations of Seismic Wavefield Propagation",
+    "Microseismic sources",
+    "Seismic interferometry",
+    "Numerical Simulation of Wave Propagation",
   ]
 
 # List your qualifications (such as academic degrees).
