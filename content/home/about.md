@@ -32,8 +32,8 @@ weight = 1
 +++
 
 Dongdong Tian is a PhD Candidate in Geophysics at
-[University of Science and Technology of China](http://en.ustc.edu.cn/).
-His supervisor is Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
+[University of Science and Technology of China](http://en.ustc.edu.cn/),
+supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 His research interests include the structure of the Earth's deep interior
 and numerical simulations of seismic wavefield propagation.
