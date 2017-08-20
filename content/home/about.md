@@ -13,8 +13,8 @@ weight = 1
 [interests]
   interests = [
     "Structure of the Earth's Deep Interior",
-    "Microseismic sources",
-    "Seismic interferometry",
+    "Microseismic Sources",
+    "Seismic Interferometry",
     "Numerical Simulation of Wave Propagation",
   ]
 
