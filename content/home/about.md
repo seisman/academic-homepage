@@ -16,6 +16,7 @@ weight = 1
     "Microseismic Sources",
     "Seismic Interferometry",
     "Numerical Simulation of Wave Propagation",
+    "Seismic Characteristics of Nuclear tests",
   ]
 
 # List your qualifications (such as academic degrees).

@@ -16,6 +16,7 @@ weight = 1
     "微震震源",
     "地震干涉",
     "波传播的数值模拟",
+    "核试验的地震学特征",
   ]
 
 # List your qualifications (such as academic degrees).
