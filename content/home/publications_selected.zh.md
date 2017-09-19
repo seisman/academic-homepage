@@ -13,7 +13,10 @@ widget = "publications_selected"
 # Order that this section will appear in.
 weight = 20
 
-# Show publication details (such as abstract)? (true/false)
-detailed_list = true
+# List format.
+#   0 = Simple
+#   1 = Classic
+#   2 = Detailed
+list_format = 2
 
 +++

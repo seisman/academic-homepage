@@ -15,7 +15,10 @@ weight = 30
 # Number of publications to list.
 count = 10
 
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
+# List format.
+#   0 = Simple
+#   1 = Classic
+#   2 = Detailed
+list_format = 0
 
 +++
