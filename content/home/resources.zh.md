@@ -13,7 +13,7 @@ weight = 60
 
 ## 软件
 
-- [HinetPy](https://seisman.github.io/HinetPy/): 从日本[Hi-net](http://www.hinet.bosai.go.jp/)台网下载地震波形数据的Python模块
+- [HinetPy](https://seisman.github.io/HinetPy/zh_CN/): 从日本[Hi-net](http://www.hinet.bosai.go.jp/)台网下载地震波形数据的Python模块
 
 ## 文档
 
