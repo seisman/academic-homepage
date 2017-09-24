@@ -1,5 +1,6 @@
 +++
 date = "2017-10-17"
+time = "13:50-14:10"
 title = "地球内核边界局部糊状层的地震学证据"
 abstract = ""
 abstract_short = ""

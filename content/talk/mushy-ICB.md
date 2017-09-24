@@ -1,5 +1,6 @@
 +++
 date = "2017-10-17"
+time = "13:50-14:10"
 title = "Seismological evidence for a localized mushy zone at the Earth's inner core boundary"
 abstract = ""
 abstract_short = ""
