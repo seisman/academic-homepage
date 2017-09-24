@@ -13,4 +13,4 @@ script:
   - ./hugo
 
 after_success:
-  - lftp -c "set ftps:initial-prot ''; open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
+  - lftp -c "open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
