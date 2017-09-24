@@ -4,6 +4,7 @@ copyright = "&copy; 2012-2017 Dongdong Tian"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+disablePathToLower = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
