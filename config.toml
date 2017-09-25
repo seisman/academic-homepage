@@ -5,6 +5,7 @@ theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 disablePathToLower = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -52,13 +53,13 @@ hasCJKLanguage = true
   #
   #     Example: highlight = true
   #
-  #   highlight_languages
-  #     Add support for highlighting additional languages. Support for
-  #     languages mentioned here will be included in all pages. You
+  #   highlight_Languages
+  #     Add support for highlighting additional Languages. Support for
+  #     Languages mentioned here will be included in all pages. You
   #     can also set this variable for a particular page in that
   #     page's preamble.
   #
-  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
+  #     Example: highlight_Languages = ["go", "lisp", "ocaml"]
   #
   #   highlight_style
   #     Choose a different CSS style for highlighting source
@@ -73,13 +74,13 @@ hasCJKLanguage = true
   #
   #     Example: highlight_version = "9.9.0"
   #
-  #   For the list of supported languages, styles, and versions, see:
+  #   For the list of supported Languages, styles, and versions, see:
   #   https://cdnjs.com/libraries/highlight.js/
   #
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = false
-  highlight_languages = []
+  highlight_Languages = []
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
@@ -197,17 +198,17 @@ hasCJKLanguage = true
   publication_type = "publication_types"
 
 # Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
+#   Create a [Languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[languages.en]
+[Languages.en]
   languageCode = "en-us"
 
 # Configure the Chinese version of the website.
-[languages.zh]
+[Languages.zh]
   languageCode = "zh-cn"
 
-#[languages.zh.params]
+# [Languages.zh.params]
 # see https://github.com/gcushen/hugo-academic/issues/213
   name = "田冬冬"
   role = "地球物理学在读博士生"
@@ -227,32 +228,32 @@ hasCJKLanguage = true
     '书籍章节'  # 6
   ]
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "首页"
   url = "#about"
   weight = 1
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "项目"
   url = "#projects"
   weight = 2
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "文章"
   url = "#publications_selected"
   weight = 3
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "报告"
   url = "#talks"
   weight = 4
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "资源下载"
   url = "#resources"
   weight = 6
 
-[[languages.zh.menu.main]]
+[[Languages.zh.menu.main]]
   name = "联系方式"
   url = "#contact"
   weight = 7
