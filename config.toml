@@ -1,11 +1,13 @@
-baseurl = "http://home.ustc.edu.cn/~dongzhi/"  # End your URL with a `/` trailing slash.
+baseurl = "http://home.ustc.edu.cn/~dongzhi/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Dongdong Tian"
 copyright = "&copy; 2012-2017 Dongdong Tian"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-disablePathToLower = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 10
+disablePathToLower = true
+hasCJKLanguage = true
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -16,12 +18,23 @@ googleAnalytics = ""
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-hasCJKLanguage = true
+
+[outputs]
+  home = [ "HTML", "CSS" ]
 
 [blackfriday]
   hrefTargetBlank = true
 
 [params]
+  # Color theme.
+  #   Choose from `default`, `ocean`, or `forest`.
+  color_theme = "default"
+
+  # Font style.
+  #   Choose from `default` or `classic`.
+  font = "default"
+
+  # Your details.
   name = "Dongdong TIAN"
   role = "PhD Candidate in Geophysics"
   organization = "University of Science and Technology of China"
@@ -40,7 +53,7 @@ hasCJKLanguage = true
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Mon, Jan 2, 2006"
+  date_format = "Jan 2, 2006"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -53,13 +66,13 @@ hasCJKLanguage = true
   #
   #     Example: highlight = true
   #
-  #   highlight_Languages
-  #     Add support for highlighting additional Languages. Support for
-  #     Languages mentioned here will be included in all pages. You
+  #   highlight_languages
+  #     Add support for highlighting additional languages. Support for
+  #     languages mentioned here will be included in all pages. You
   #     can also set this variable for a particular page in that
   #     page's preamble.
   #
-  #     Example: highlight_Languages = ["go", "lisp", "ocaml"]
+  #     Example: highlight_languages = ["go", "lisp", "ocaml"]
   #
   #   highlight_style
   #     Choose a different CSS style for highlighting source
@@ -74,13 +87,13 @@ hasCJKLanguage = true
   #
   #     Example: highlight_version = "9.9.0"
   #
-  #   For the list of supported Languages, styles, and versions, see:
+  #   For the list of supported languages, styles, and versions, see:
   #   https://cdnjs.com/libraries/highlight.js/
   #
   #   For more info on the highlighting options, see:
   #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
   highlight = false
-  highlight_Languages = []
+  highlight_languages = []
   # highlight_style = "github"
   # highlight_version = "9.9.0"
 
