@@ -1,6 +1,6 @@
 baseurl = "http://home.ustc.edu.cn/~dongzhi/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Dongdong Tian"
-copyright = "&copy; 2012-2017 Dongdong Tian"
+copyright = "&copy; 2012–2017 Dongdong Tian"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   # Color theme.
-  #   Choose from `default`, `ocean`, or `forest`.
+  #   Choose from `default`, `ocean`, `forest`, or `coffee`.
   color_theme = "default"
 
   # Font style.
@@ -37,10 +37,13 @@ defaultContentLanguageInSubdir = false
   # Your details.
   name = "Dongdong TIAN"
   role = "PhD Candidate in Geophysics"
-  organization = "University of Science and Technology of China"
-  organization_url = "http://en.ustc.edu.cn/"
+
+  # Organizations/Affiliations.
+  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+  organizations = [ { name = "University of Science and Technology of China", url = "http://en.ustc.edu.cn/" } ]
+
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "dongzhi@mail.ustc.edu.cn"
   address = "No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, China."
   office_hours = ""
@@ -54,6 +57,9 @@ defaultContentLanguageInSubdir = false
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
+
+  # Show estimated reading time for posts?
+  reading_time = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -81,21 +87,14 @@ defaultContentLanguageInSubdir = false
   #
   #     Example: highlight_style = "github-gist"
   #
-  #   highlight_version
-  #     Choose the version of highlight.js you want. Setting this
-  #     option in a page's preamble has no effect.
-  #
-  #     Example: highlight_version = "9.9.0"
-  #
-  #   For the list of supported languages, styles, and versions, see:
+  #   For the list of supported languages and styles, see:
   #   https://cdnjs.com/libraries/highlight.js/
   #
   #   For more info on the highlighting options, see:
-  #   https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/#highlighting-options
+  #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = false
   highlight_languages = []
   # highlight_style = "github"
-  # highlight_version = "9.9.0"
 
   # Enable native social sharing buttons?
   sharing = false
@@ -225,8 +224,8 @@ defaultContentLanguageInSubdir = false
 # see https://github.com/gcushen/hugo-academic/issues/213
   name = "田冬冬"
   role = "地球物理学在读博士生"
-  organization = "中国科学技术大学"
-  organization_url = "http://www.ustc.edu.cn/"
+
+  organizations = [ { name = "中国科学技术大学", url = "http://www.ustc.edu.cn/" } ]
   address = "安徽省 合肥市 中国科学技术大学东区 教学行政楼 1127室"
 
   date_format = "2006年1月2日"

@@ -14,7 +14,9 @@ weight = 40
 # Number of talks to list.
 count = 10
 
-# Show talk details (such as abstract)? (true/false)
-detailed_list = false
+# List format
+#   0 = Simple
+#   1 = Detailed
+list_format = 0
 
 +++
