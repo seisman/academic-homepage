@@ -38,4 +38,4 @@ weight = 1
 
 他是开源爱好者，同时也在向 [GMT](http://gmt.soest.hawaii.edu/)、[SAC](https://seiscode.iris.washington.edu/projects/sac)、[ObsPy](http://docs.obspy.org/) 等地球物理相关软件贡献代码。
 
-这里可以下载我的[CV](/~dongzhi/cv.pdf)。
+这里可以下载我的 {{% staticref "cv.pdf" "newtab" %}} CV {{% /staticref %}}。
