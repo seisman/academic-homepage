@@ -5,6 +5,7 @@ theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
 paginate = 10
 disablePathToLower = true
 hasCJKLanguage = true
@@ -31,7 +32,7 @@ defaultContentLanguageInSubdir = false
   color_theme = "default"
 
   # Font style.
-  #   Choose from `default` or `classic`.
+  #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
   # Your details.
@@ -209,18 +210,18 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   publication_type = "publication_types"
 
-# Languages
-#   Create a [Languages.X] block for each language you want, where X is the language ID.
+# languages
+#   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
+[languages.en]
   languageCode = "en-us"
 
 # Configure the Chinese version of the website.
-[Languages.zh]
+[languages.zh]
   languageCode = "zh-cn"
 
-# [Languages.zh.params]
+#[languages.zh.params]
 # see https://github.com/gcushen/hugo-academic/issues/213
   name = "田冬冬"
   role = "地球物理学在读博士生"
@@ -240,32 +241,32 @@ defaultContentLanguageInSubdir = false
     '书籍章节'  # 6
   ]
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "首页"
   url = "#about"
   weight = 1
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "项目"
   url = "#projects"
   weight = 2
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "文章"
   url = "#publications_selected"
   weight = 3
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "报告"
   url = "#talks"
   weight = 4
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "资源下载"
   url = "#resources"
   weight = 6
 
-[[Languages.zh.menu.main]]
+[[languages.zh.menu.main]]
   name = "联系方式"
   url = "#contact"
   weight = 7
