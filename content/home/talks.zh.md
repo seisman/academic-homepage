@@ -14,9 +14,10 @@ weight = 30
 # Number of talks to list.
 count = 10
 
-# List format
+# List format.
 #   0 = Simple
 #   1 = Detailed
 list_format = 0
 
 +++
+

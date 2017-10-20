@@ -13,5 +13,4 @@ list_format = 0
 [header]
 image = ""
 caption = ""
-
 +++

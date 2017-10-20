@@ -18,6 +18,7 @@ weight = 10
 view = 1
 
 # Filter toolbar.
+
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
 filter_default = 0
 
@@ -33,3 +34,4 @@ filter_default = 0
   tag = ".inner-core-boundary"
 
 +++
+
