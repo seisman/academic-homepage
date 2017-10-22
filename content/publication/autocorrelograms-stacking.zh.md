@@ -34,7 +34,7 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [""]
+projects = []
 
 # Links (optional).
 url_pdf = "https://doi.org/10.1093/gji/ggu044"
