@@ -1,13 +1,12 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
-
+widget = "publications"
+active = true
 date = 2017-06-16
-draft = false
 
 title = "近期文章"
 subtitle = ""
-widget = "publications"
 
 # Order that this section will appear in.
 weight = 20

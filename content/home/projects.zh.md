@@ -1,13 +1,12 @@
 +++
 # Projects widget.
 # This widget displays all projects from `content/project/`.
-
+widget = "projects"
+active = true
 date = "2017-07-20T00:00:00"
-draft = false
 
 title = "科研项目"
 subtitle = ""
-widget = "projects"
 
 # Order that this section will appear in.
 weight = 10
