@@ -32,5 +32,9 @@ filter_default = 0
   name = "内核边界"
   tag = ".inner-core-boundary"
 
+[[filter]]
+  name = "核试验"
+  tag = ".nuclear-test"
+
 +++
 

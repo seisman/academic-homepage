@@ -2,6 +2,7 @@
 title = "内核边界"
 date = 2017-07-20
 draft = false
+weight = 1
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
