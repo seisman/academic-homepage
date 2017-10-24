@@ -1,9 +1,11 @@
 +++
-# Date this page was created.
-date = "2017-07-20"
-
-# Project title.
 title = "Inner Core Boundary"
+date = 2017-07-20
+draft = false
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["inner-core-boundary"]
 
 # Project summary to display on homepage.
 summary = "Use pre-critically reflected PKiKP waves to study the fine-scale structure of the Earth's inner core boundary."
@@ -11,20 +13,21 @@ summary = "Use pre-critically reflected PKiKP waves to study the fine-scale stru
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "PKiKP-Raypath.png"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["inner-core-boundary"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
+# Does the project detail page use source code highlighting?
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
+
 +++
 
 The Earth's solid inner core grows from the solidification of the liquid

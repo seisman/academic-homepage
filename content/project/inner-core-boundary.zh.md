@@ -1,9 +1,11 @@
 +++
-# Date this page was created.
-date = "2017-07-20"
-
-# Project title.
 title = "内核边界"
+date = 2017-07-20
+draft = false
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["inner-core-boundary"]
 
 # Project summary to display on homepage.
 summary = "使用从内核边界处前临界反射的PKiKP震相研究内核边界的精细结构"
@@ -11,20 +13,21 @@ summary = "使用从内核边界处前临界反射的PKiKP震相研究内核边�
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "PKiKP-Raypath.png"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["inner-core-boundary"]
-
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
 
-# Optional featured image (relative to `static/img/` folder).
+# Does the project detail page use source code highlighting?
+highlight = false
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
+
 +++
 
 地球的固态内核随着液态外核的凝固而不断增长。内核的增长过程释放了潜热并抛出轻物质，
