@@ -2,7 +2,7 @@ build:
 	hugo
 
 deploy: build
-	lftp -c "open ftp://USER:PASSWORD@home.ustc.edu.cn; mirror -eRv public public_html; quit;"
+	lftp -c "open ftp://${FTP_USER}:${FTP_PASSWORD}@${FTP_HOST}; mirror -eRv public public_html; quit;"
 
 clean:
 	-rm -r public/
