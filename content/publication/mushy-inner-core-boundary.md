@@ -37,6 +37,10 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 projects = ["inner-core-boundary"]
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
 # Links (optional).
 url_pdf = "http://dx.doi.org/10.1038/s41467-017-00229-9"
 url_preprint = ""
