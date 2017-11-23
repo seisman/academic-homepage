@@ -11,10 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Structure of the Earth's Deep Interior",
-    "Microseismic Sources",
+    "Mechanisms of Small Seismic Events (Microseism, Nuclear Explosions, Collapse)",
+    "Numerical Simulation of Wave Propagation in Complex Media",
     "Seismic Interferometry",
-    "Numerical Simulation of Wave Propagation",
-    "Seismic Characteristics of Nuclear tests",
   ]
 
 # List your qualifications (such as academic degrees).

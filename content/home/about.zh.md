@@ -11,10 +11,10 @@ weight = 5
 [interests]
   interests = [
     "地球深部结构",
-    "微震震源",
+    "微震震源机制",
+    "核试验的震源特征",
+    "复杂介质中的波传播模拟",
     "地震干涉",
-    "波传播的数值模拟",
-    "核试验的地震学特征",
   ]
 
 # List your qualifications (such as academic degrees).
