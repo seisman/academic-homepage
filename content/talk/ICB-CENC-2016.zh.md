@@ -1,12 +1,12 @@
 +++
 title = "内核边界属性的地震学研究"
-date = "2016-06-30T09:00:00"
+date = 2016-06-30T09:00:00
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2016-06-30T09:00:00"
-time_end = "2016-06-30T09:20:00"
+time_start = 2016-06-30T09:00:00
+time_end = 2016-06-30T09:20:00
 
 # Abstract and optional shortened version.
 abstract = ""
