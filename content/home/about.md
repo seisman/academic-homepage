@@ -13,6 +13,7 @@ weight = 5
     "Structure of the Earth's Deep Interior",
     "Mechanisms of Small Seismic Events (Microseism, Nuclear Explosions, Collapse)",
     "Numerical Simulation of Wave Propagation in Complex Media",
+    "Full Waveform Inversion",
     "Seismic Interferometry",
   ]
 
