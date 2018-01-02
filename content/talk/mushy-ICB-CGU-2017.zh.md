@@ -1,12 +1,12 @@
 +++
 title = "内核边界局部糊状层的地震学证据"
-date = "2017-10-01" # Schedule page publish date.
+date = 2017-10-01 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2017-10-17T13:50:00"
-time_end = "2017-10-17T14:10:00"
+time_start = 2017-10-17T13:50:00
+time_end = 2017-10-17T14:10:00
 
 # Abstract and optional shortened version.
 abstract = ""

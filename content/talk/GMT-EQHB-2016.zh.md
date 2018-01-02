@@ -1,12 +1,12 @@
 +++
 title = "60分钟入门GMT"
-date = "2016-09-21T09:00:00"  # Schedule page publish date.
+date = 2016-09-21T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = "2016-09-21T09:00:00"
-time_end = "2016-09-21T10:00:00"
+time_start = 2016-09-21T09:00:00
+time_end = 2016-09-21T10:00:00
 
 # Abstract and optional shortened version.
 abstract = ""

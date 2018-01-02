@@ -1,10 +1,10 @@
 language: generic
 sudo: required
 env:
-  - HUGO_VERSION=0.30.2
+  - HUGO_VERSION=0.32
 
 install:
-  - sudo apt-get install lftp
+  - # sudo apt-get install lftp
   - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
   - tar -xvf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz hugo
   - git submodule update --remote
@@ -13,4 +13,4 @@ script:
   - ./hugo
 
 after_success:
-  - lftp -c "open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
+  - # lftp -c "open ftp://$USER:$PASSWD@home.ustc.edu.cn:21; mirror -eRv public public_html; quit;"
