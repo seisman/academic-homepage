@@ -1,15 +1,19 @@
 +++
 # Projects widget.
-# This widget displays all projects from `content/project/`.
 widget = "projects"
 active = true
 date = "2017-07-20T00:00:00"
 
-title = "Projects"
+title = "科研项目"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 10
+
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "research"
 
 # View.
 # Customize how projects are displayed.
@@ -25,15 +29,15 @@ filter_default = 0
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-  name = "All"
+  name = "全部"
   tag = "*"
 
 [[filter]]
-  name = "Inner Core Boundary"
+  name = "内核边界"
   tag = ".inner-core-boundary"
 
 [[filter]]
-  name = "Nuclear Test"
+  name = "核试验"
   tag = ".nuclear-test"
 
 +++

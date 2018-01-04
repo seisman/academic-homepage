@@ -260,8 +260,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Researches"
+  url = "#researches"
   weight = 2
 
 [[menu.main]]
@@ -333,8 +333,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[languages.zh.menu.main]]
-  name = "项目"
-  url = "#projects"
+  name = "研究"
+  url = "#researches"
   weight = 2
 
 [[languages.zh.menu.main]]
