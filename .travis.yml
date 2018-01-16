@@ -1,7 +1,7 @@
 language: generic
 sudo: required
 env:
-  - HUGO_VERSION=0.32.2
+  - HUGO_VERSION=0.32.4
 
 install:
   - # sudo apt-get install lftp
