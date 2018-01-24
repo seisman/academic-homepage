@@ -3,6 +3,7 @@ title = "Nuclear Tests"
 date = 2017-10-24
 draft = false
 weight = 2
+type = "project"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
