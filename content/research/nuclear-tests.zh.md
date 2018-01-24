@@ -1,5 +1,5 @@
 +++
-title = "North Korea's Nuclear Tests"
+title = "核试验"
 date = 2017-10-24
 draft = false
 weight = 2
@@ -9,7 +9,7 @@ weight = 2
 tags = ["nuclear-test"]
 
 # Project summary to display on homepage.
-summary = "Determine high-precision location and source characteristics of the North Korea's nuclear tests and related seismic events based on seismological observations."
+summary = "利用地震学方法对朝鲜核试验进行精确定位，并研究其震源属性。"
 
 # Optional image to display on homepage.
 image_preview = ""
