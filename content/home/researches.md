@@ -36,9 +36,5 @@ filter_default = 0
   name = "Inner Core Boundary"
   tag = ".inner-core-boundary"
 
-[[filter]]
-  name = "Nuclear Test"
-  tag = ".nuclear-test"
-
 +++
 
