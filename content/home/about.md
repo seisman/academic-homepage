@@ -37,10 +37,10 @@ supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Collaspe) and numerical simulations of seismic wavefield propagation.
-He's working on the project of
+He is working on the study of
 [fine-scale structure of the Earth's inner core boundary](research/inner-core-boundary/).
 
-He's a fan of open source and also contributes to geophysics-related softwares, such as
+He is a fan of open source and also contributes to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
 [SAC](https://seiscode.iris.washington.edu/projects/sac)
 and [ObsPy](http://docs.obspy.org/).

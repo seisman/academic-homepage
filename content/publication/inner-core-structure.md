@@ -1,6 +1,6 @@
 +++
 title = "Seismic structure and dynamic process of the Earth's inner core and its boundary"
-date = "2018-01-20"
+date = "2018-02-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lianxing Wen", "**Dongdong Tian**", "Jiayuan Yao"]

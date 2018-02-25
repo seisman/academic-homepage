@@ -1,6 +1,6 @@
 +++
 title = "地球内核及其边界的结构特征和动力学过程"
-date = "2018-01-20"
+date = "2018-02-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["温联星", "**田冬冬**", "姚家园"]
