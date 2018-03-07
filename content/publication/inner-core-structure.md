@@ -1,6 +1,6 @@
 +++
 title = "Seismic structure and dynamic process of the Earth's inner core and its boundary"
-date = "2018-02-25"
+date = "2018-03-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lianxing Wen", "**Dongdong Tian**", "Jiayuan Yao"]
@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://manu39.magtech.com.cn/Geophy/CN/10.6038/cjg2018L0500"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
