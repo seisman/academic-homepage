@@ -3,11 +3,11 @@
 
 from PIL import Image
 
-logos = ["ncomms.jpg", "GJI.jpeg", "JGR.gif"]
+logos = ['ncomms.jpg', 'GJI.jpeg', 'JGR.gif', 'CJG.jpg']
 
 im = Image.new('RGB', (1280, 200), color=(255,255,255,0))
 
-x_offset = 300
+x_offset = 150
 for logo in logos:
     with Image.open(logo) as f:
         f.thumbnail((1280, 150), Image.ANTIALIAS)
