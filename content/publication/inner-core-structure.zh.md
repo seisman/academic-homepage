@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "http://manu39.magtech.com.cn/Geophy/CN/10.6038/cjg2018L0500"
+url_pdf = "https://dx.doi.org/10.6038/cjg2018L0500"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
