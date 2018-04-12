@@ -15,5 +15,6 @@ weight = 8
 
 +++
 
+- **Mar. 2018**: Dongdong Tian is awarded the **Outstanding Graduate Student Award** from University of Science and Technology of China.
 - **Dec. 2017**: Dongdong Tian is awarded the **2017 CGU Outstanding Student Paper Award** for his presentation at the 2017 CGU annual meeting.
 - **Oct. 2017**: Dongdong Tian is awarded **the National Scholarship for Doctoral Students** from the Ministry of Education, China.
