@@ -30,6 +30,6 @@ weight = 8
 -   **Aug. 1, 2017**:
     We present the first seismological evidence for a localized mushy zone
     across the Earth's inner core boundary beneath southwest Okhotsk Sea.
-    This paper is now available on
-    [*Nature Communications*](http://dx.doi.org/10.1038/s41467-017-00229-9).
-    Click [here]({{< ref "publication/mushy-inner-core-boundary.md" >}}) for details.
+    [This paper]({{< ref "publication/mushy-inner-core-boundary.md" >}})
+    is now available on
+    [*Nature Communications*](https://doi.org/10.1038/s41467-017-00229-9).

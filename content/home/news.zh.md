@@ -25,6 +25,7 @@ weight = 8
     田冬冬获得中国教育部“博士生国家奖学金”
 
 -   **2017年8月1日**:
-    我们在鄂霍次克海西南部下方的内核边界发现了糊状层，为局部内核边界存在糊状层
-    提供了地震学证据。本研究发表在 [*Nature Communications*](http://dx.doi.org/10.1038/s41467-017-00229-9)。
-    点击[此处]({{< relref "publication/mushy-inner-core-boundary.zh.md" >}})了解更多信息。
+    我们在鄂霍次克海西南部下方的内核边界发现了糊状层，
+    为局部内核边界存在糊状层提供了地震学证据。
+    [本研究]({{< relref "publication/mushy-inner-core-boundary.zh.md" >}})
+    发表在 [*Nature Communications*](https://doi.org/10.1038/s41467-017-00229-9)。
