@@ -38,5 +38,5 @@ caption = ""
 
 ## 局部区域糊状层
 
-{{< figure src="img/mushy-ICB.png" alt="Localized Mushy ICB" title="鄂霍次克海西南部下方的局部糊状内核边界。"
+{{< figure src="mushy-ICB.png" numbered="true" alt="Localized Mushy ICB" title="鄂霍次克海西南部下方的局部糊状内核边界。"
 caption="（a）地震事件（红色五角星）激发并被日本Hi-net台网（黑色三角形）记录到的PKiKP震相采样了这一区域。PKiKP-PcP走时残差约束了内核边界的地形起伏，正和负残差分别用圆和三角表示，符号的大小正比于走时残差的绝对值。（b）糊状内核边界模型（红线）由两个参数决定：糊状层厚度d和P波速度跳变相对于PREM速度跳变的百分比δVP，黑线代表PREM模型中的内核边界。（c）不同厚度d和P波速度跳变δVP糊状内核边界模型（红色波形）和PREM模型（黑色波形）计算得到理论PKiKP地震图。（d）PKiKP观测波形（蓝色波形）与最佳拟合糊状层模型预测的理论地震图（红色波形）的对比。最佳拟合模型的厚度与速度跳变标记在波形右上方。">}}
