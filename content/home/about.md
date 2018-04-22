@@ -45,4 +45,4 @@ He is a fan of open source and also contributes to geophysics-related softwares,
 [SAC](https://seiscode.iris.washington.edu/projects/sac)
 and [ObsPy](http://docs.obspy.org/).
 
-A complete cv can be downloaded {{% staticref "cv.pdf" "newtab" %}}here{{% /staticref %}}.
+A complete cv can be downloaded {{% staticref "Dongdong_Tian_CV.pdf" "newtab" %}}here{{% /staticref %}}.
