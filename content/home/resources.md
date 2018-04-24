@@ -1,7 +1,7 @@
 +++
 widget = "custom"
 active = true
-date = "2017-07-20T00:00:00"
+date = 2017-07-20T00:00:00
 
 title = "Resources"
 subtitle = "Softwares & </br> Documentations & </br> Websites"

@@ -1,6 +1,6 @@
 +++
 title = "A new method for earthquake depth determination: stacking multiple-station autocorrelograms"
-date = "2014-02-26"
+date = 2014-02-26T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

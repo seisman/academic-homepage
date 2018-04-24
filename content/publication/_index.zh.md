@@ -1,6 +1,6 @@
 +++
 title = "文章列表"
-date = "2017-07-16T00:00:00Z"
+date = 2017-07-16T00:00:00
 math = false
 highlight = false
 

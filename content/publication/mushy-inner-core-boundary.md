@@ -1,6 +1,6 @@
 +++
 title = "Seismological evidence for a localized mushy zone at the Earth’s inner core boundary"
-date = "2017-08-01"
+date = 2017-08-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

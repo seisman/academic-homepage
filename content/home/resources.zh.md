@@ -1,7 +1,7 @@
 +++
 widget = "custom"
 active = true
-date = "2017-07-20T00:00:00"
+date = 2017-07-20T00:00:00
 
 title = "资源下载"
 subtitle = "软件 & 文档 & 网站"

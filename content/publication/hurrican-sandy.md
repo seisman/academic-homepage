@@ -1,6 +1,6 @@
 +++
 title = "Microseismic sources during Hurricane Sandy"
-date = "2015-09-21"
+date = 2015-09-21T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

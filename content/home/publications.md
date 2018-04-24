@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2017-06-16
+date = 2017-06-16T00:00:00
 
 title = "Publications"
 subtitle = ""
