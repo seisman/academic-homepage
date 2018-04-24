@@ -38,7 +38,7 @@ He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Collaspe) and numerical simulations of seismic wavefield propagation.
 He is working on the study of
-[fine-scale structure of the Earth's inner core boundary](research/inner-core-boundary/).
+[fine-scale structure of the Earth's inner core boundary]({{< ref "project/inner-core-boundary.md" >}}).
 
 He is a fan of open source and also contributes to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
