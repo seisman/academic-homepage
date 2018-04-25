@@ -67,7 +67,7 @@ enableGitInfo = false
   email = "dongzhi@mail.ustc.edu.cn"
   address = "Room 1127, Research Building, University of Science and Technology of China, No. 96, Jinzhai Road, Hefei, Anhui 230026, China."
   office_hours = ""
-  phone = "+86-15055117035"
+  # phone = "+86-15055117035"
   skype = ""
   telegram = ""
 
