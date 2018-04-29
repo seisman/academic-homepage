@@ -67,7 +67,7 @@ enableGitInfo = false
   email = "dongzhi@mail.ustc.edu.cn"
   address = "Room 1127, Research Building, University of Science and Technology of China, No. 96, Jinzhai Road, Hefei, Anhui 230026, China."
   office_hours = ""
-  # phone = "+86-15055117035"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -268,19 +268,24 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "News"
+  url = "#news"
+  weight = 2
+
+[[menu.main]]
   name = "Researches"
   url = "#researches"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Resources"

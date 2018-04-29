@@ -5,6 +5,7 @@
 Powered by [Academic theme](https://github.com/gcushen/hugo-academic) for [Hugo](https://gohugo.io/).
 
 website: http://home.ustc.edu.cn/~dongzhi/
+
 ~~~
 $ git clone https://github.com/seisman/academic-homepage
 $ cd academic-homepage
