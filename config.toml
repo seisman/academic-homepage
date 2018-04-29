@@ -298,69 +298,9 @@ enableGitInfo = false
   category = "categories"
   publication_type = "publication_types"
 
-# languages
+# Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[languages.en]
+[Languages.en]
   languageCode = "en-us"
-
-# Configure the Chinese version of the website.
-[languages.zh]
-  languageCode = "zh-cn"
-
-#[languages.zh.params]
-# see https://github.com/gcushen/hugo-academic/issues/213
-  name = "田冬冬"
-  role = "地球物理学在读博士生"
-
-  organizations = [ { name = "中国科学技术大学", url = "http://www.ustc.edu.cn/" } ]
-  address = "安徽省 合肥市 中国科学技术大学东区 教学行政楼 1127室"
-
-  date_format = "2006年1月2日"
-
-  publication_types = [
-    '未分类',  # 0
-    '会议论文集',  # 1
-    '期刊论文',  # 2
-    '待发表论文',  # 3
-    '技术报告',  # 4
-    '书籍',  # 5
-    '书籍章节'  # 6
-  ]
-
-  # Configuration of publication pages.
-  [languages.zh.params.publications]
-  # Date format (refer to Go's date format: http://flippinggodateformat.com )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2006年1月2日"
-
-[[languages.zh.menu.main]]
-  name = "首页"
-  url = "#about"
-  weight = 1
-
-[[languages.zh.menu.main]]
-  name = "研究"
-  url = "#researches"
-  weight = 2
-
-[[languages.zh.menu.main]]
-  name = "文章"
-  url = "#publications_selected"
-  weight = 3
-
-[[languages.zh.menu.main]]
-  name = "报告"
-  url = "#talks"
-  weight = 4
-
-[[languages.zh.menu.main]]
-  name = "资源下载"
-  url = "#resources"
-  weight = 6
-
-[[languages.zh.menu.main]]
-  name = "联系方式"
-  url = "#contact"
-  weight = 7

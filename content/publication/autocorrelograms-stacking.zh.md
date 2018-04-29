@@ -1,1 +1,0 @@
-autocorrelograms-stacking.md
