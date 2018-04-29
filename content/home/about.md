@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Structure of the Earth's Deep Interior",
-    "Mechanisms of Small Seismic Events (Microseism, Collapse)",
+    "Mechanisms of Small Seismic Events (Microseism, Explosion, Collapse)",
     "Numerical Simulation of Wave Propagation in Complex Media",
     "Full Waveform Inversion",
     "Seismic Interferometry",
@@ -36,7 +36,7 @@ supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
-(e.g. Microseismic, Collaspe) and numerical simulations of seismic wavefield propagation.
+(e.g. Microseismic, Explosions, Collaspe) and numerical simulations of seismic wavefield propagation.
 He is working on the study of
 [fine-scale structure of the Earth's inner core boundary]({{< ref "project/inner-core-boundary.md" >}}).
 
