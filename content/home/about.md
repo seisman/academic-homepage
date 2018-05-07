@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Structure of the Earth's Deep Interior",
-    "Mechanisms of Small Seismic Events (Microseism, Explosion, Collapse)",
+    "Mechanisms of Small Seismic Events (Microseism, Explosions, Collapse)",
     "Numerical Simulation of Wave Propagation in Complex Media",
     "Full Waveform Inversion",
     "Seismic Interferometry",
