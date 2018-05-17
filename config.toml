@@ -298,9 +298,14 @@ enableGitInfo = false
   weight = 7
 
 [[menu.main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 8
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 9
 
 # Taxonomies.
 [taxonomies]
