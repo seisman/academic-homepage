@@ -293,9 +293,14 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
+  name = "Services"
+  url = "#services"
+  weight = 7
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
