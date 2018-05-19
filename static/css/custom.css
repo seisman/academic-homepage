@@ -1,0 +1,7 @@
+.portrait {
+    transition: transform 0.5s;
+}
+
+.portrait:hover {
+    transform: scale(1.1);
+}
