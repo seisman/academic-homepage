@@ -27,7 +27,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["inner-core-boundary.md"]
+projects = ["inner-core-boundary"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
