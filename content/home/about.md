@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Geophysics"
   institution = "University of Science and Technology of China"
-  year = "2018 (expected)"
+  year = "2018"
 
 [[education.courses]]
   course = "BSc in Geophysics"
@@ -30,7 +30,7 @@ weight = 5
 
 +++
 
-Dongdong Tian is a Ph.D. Candidate in Geophysics at
+Dongdong Tian is a Ph.D. in Geophysics at
 [University of Science and Technology of China](http://en.ustc.edu.cn/),
 supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
