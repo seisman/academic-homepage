@@ -15,9 +15,9 @@ weight = 63
 
 +++
 
-- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China [top 15%]
-- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China
-- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China [top 5%]
-- **2014:** Guanghua Scholarship for Graduate Students, Guanghua Education Fund, China
-- **2010:** Guanghua Scholarship for Undergraduate Students, Guanghua Education Fund, China
-- **2009:** Outstanding Volunteer, University of Science and Technology of China, China
+- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China. ![](https://img.shields.io/badge/top-15%25-blue.svg)
+- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China.
+- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China. ![](https://img.shields.io/badge/top-5%25-blue.svg)
+- **2014:** Guanghua Scholarship for Graduate Students, Guanghua Education Fund, China.
+- **2010:** Guanghua Scholarship for Undergraduate Students, Guanghua Education Fund, China.
+- **2009:** Outstanding Volunteer, University of Science and Technology of China, China.
