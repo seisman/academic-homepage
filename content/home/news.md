@@ -16,7 +16,7 @@ weight = 8
 +++
 
 -   **May 28, 2018**:
-    Dongdong Tian has sucessfully defended his PhD thesis.
+    Dongdong Tian has sucessfully defended his Ph.D. thesis.
 
 -   **Apr. 27, 2018**:
     Our seismic analysis reveals that North Korea's 3 September 2017 nuclear test

@@ -13,7 +13,7 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "PhD Thesis Defense"
+event = "Ph.D. Thesis Defense"
 event_url = ""
 
 # Location of event.

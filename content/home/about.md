@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Geophysics"
+  course = "Ph.D. in Geophysics"
   institution = "University of Science and Technology of China"
   year = "2018"
 
