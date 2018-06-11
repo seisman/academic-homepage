@@ -43,7 +43,7 @@ projects = ["inner-core-boundary"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://dx.doi.org/10.6038/cjg2018L0500"
+url_pdf = "https://doi.org/10.6038/cjg2018L0500"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
