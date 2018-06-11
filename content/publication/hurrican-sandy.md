@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1002/2015JB012282"
+url_pdf = "https://doi.org/10.1002/2015JB012282"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
