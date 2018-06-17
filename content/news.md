@@ -1,17 +1,6 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = true
+title = "List of News"
 date = 2018-01-08T00:00:00
-
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Recent News"
-subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~dongzhi/news)"
-
-# Order that this section will appear in.
-weight = 8
 
 +++
 
@@ -29,3 +18,18 @@ weight = 8
 -   **Mar. 12, 2018**:
     Dongdong Tian is awarded the **Outstanding Graduate Student Award**
     from University of Science and Technology of China.
+
+-   **Nov. 30, 2017**:
+    Dongdong Tian is awarded the **2017 CGU Outstanding Student Paper Award**
+    for his presentation at the 2017 CGU annual meeting.
+
+-   **Nov. 20, 2017**:
+    Dongdong Tian is awarded **the National Scholarship for Doctoral Students**
+    from the Ministry of Education, China.
+
+-   **Aug. 1, 2017**:
+    We present the first seismological evidence for a localized mushy zone
+    across the Earth's inner core boundary beneath southwest Okhotsk Sea.
+    [This paper]({{< ref "publication/mushy-inner-core-boundary.md" >}})
+    is now available on
+    [*Nature Communications*](https://doi.org/10.1038/s41467-017-00229-9).
