@@ -39,7 +39,7 @@ enableGitInfo = false
   section = [ "HTML", "RSS" ]
 
 # Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/readfiles/bfconfig/
+#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
@@ -67,7 +67,7 @@ enableGitInfo = false
   email = "dongzhi@mail.ustc.edu.cn"
   address = "Room 1127, Research Building, University of Science and Technology of China, No. 96, Jinzhai Road, Hefei, Anhui 230026, China."
   office_hours = ""
-  phone = ""
+  phone = "+86-15055117035"
   skype = ""
   telegram = ""
 
@@ -97,7 +97,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = "AIzaSyBP5DIVloAvKk7NCjV2NzvsH7wLa5BB2Pw"
   latitude = "31.84127"
   longitude = "117.27036"
