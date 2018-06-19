@@ -12,7 +12,7 @@ tags = ["nuclear-tests"]
 summary = "High-precision locations and source characteristics of North Korea's nuclear tests and associated small seismic events."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "NKNT.jpg"
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -33,19 +33,25 @@ caption = ""
 
 ## List of Six NKNTs
 
+North Korea has conducted six nuclear tests since 2006.
+Event information of the six nuclear test are given by
+[Prof. Lianxing Wen's group at USTC](http://seis.ustc.edu.cn/) and
+summarized by Yao et al. (submitted to SRL).
+
+{{< figure src="project/north-korea-nuclear-tests/NKNT.jpg" numbered="true" alt="North Korea's six nuclear tests" title="Event information of North Korea's six nuclear tests." >}}
+
+**Table 1. Summary of event information of North Koare's six nuclear tests**
+
 No.| Date       | Time         | Latitude | Longitude | Depth (m)
 ---|------------|--------------|----------|-----------|----------
-1  | 2006-10-09 | 01:35:28.000[^1] | 41.2874[^2]  | 129.1083[^2]  | -
-2[^2]  | 2009-05-25	| 00:54:43.180 | 41.2939  | 129.0817  | 610
-3[^3]  | 2013-02-12	| 02:27:51.331 | 41.2908  | 129.0763  | 430
+1  | 2006-10-09 | 01:35:28.000 | 41.2874  | 129.1083  | -
+2  | 2009-05-25	| 00:54:43.180 | 41.2939  | 129.0817  | 610
+3  | 2013-02-12	| 02:27:51.331 | 41.2908  | 129.0763  | 430
 4  | 2016-01-06	| 01:30:01:038 | 41.2980  | 129.0715  | 690
 5  | 2016-09-09	| 00:30:01.366 | 41.2985  | 129.0780  | 790
-6[^6]  | 2017-09-03	| 03:30:03.788 | 41.2982  | 129.0742  | 760
+6  | 2017-09-03	| 03:30:03.788 | 41.2982  | 129.0742  | 760
 
-[^1]: [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usp000eurb)
-[^2]: [Wen and Long, SRL, 2010](https://doi.org/10.1785/gssrl.81.1.26)
-[^3]: [Zhang and Wen, GRL, 2013](https://doi.org/10.1002/grl.50607)
-[^6]: Yao et al., SRL, submitted
+**Downloads**
 
 - {{% staticref "project/north-korea-nuclear-tests/NKNT.dat" %}}NKNT.dat{{% /staticref %}}:
   Locations of six NKNTs in plain text.
@@ -56,4 +62,3 @@ No.| Date       | Time         | Latitude | Longitude | Depth (m)
 
 For details of the collapse and earthquake swarm after the 2017 test,
 click [here]({{< ref "publication/north-korea-nuclear-test-2017-collapse" >}}).
-
