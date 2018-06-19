@@ -1,19 +1,19 @@
 +++
-title = "Seismic stduy on the properties of the Earth's inner core boundary"
-date = 2016-06-30T09:00:00
+title = "Seismological evidence for a localized mushy zone at the Earth's inner core boundary"
+date = 2018-06-19 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-06-30T09:00:00
-time_end = 2016-06-30T09:20:00
+time_start = 2018-06-15T10:15:00
+time_end = 2018-06-15T10:45:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "China Earthquake Networks Center, Beijing, China"
+event = "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China."
 event_url = ""
 
 # Location of event.

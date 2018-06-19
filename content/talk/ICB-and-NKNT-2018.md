@@ -1,19 +1,19 @@
 +++
-title = "Seismic stduy on the properties of the Earth's inner core boundary"
-date = 2016-06-30T09:00:00
+title = "Fine-scale Structure of the Earth's Inner Core Boundary and Aftershocks of North Korea's 2017 Nuclear Test"
+date = 2018-06-19 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-06-30T09:00:00
-time_end = 2016-06-30T09:20:00
+time_start = 2018-06-14T15:00:00
+time_end = 2018-06-14T16:00:00
 
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "China Earthquake Networks Center, Beijing, China"
+event = "Institute of Earthquake Forcasting, China Earthquake Administration, Beijing, China."
 event_url = ""
 
 # Location of event.
@@ -27,7 +27,7 @@ selected = false
 #   Simply enter the filename of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning.md"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
-projects = ["inner-core-boundary"]
+projects = ["inner-core-boundary", "north-korea-nuclear-tests"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
