@@ -31,14 +31,15 @@ caption = ""
 
 +++
 
-## List of Six NKNTs
+![](NKNT.jpg)
+
+
+## Event information of Six NKNTs
 
 North Korea has conducted six nuclear tests since 2006.
 Event information of the six nuclear test are given by
 [Prof. Lianxing Wen's group at USTC](http://seis.ustc.edu.cn/) and
 summarized by Yao et al. (submitted to SRL).
-
-{{< figure src="project/north-korea-nuclear-tests/NKNT.jpg" numbered="true" alt="North Korea's six nuclear tests" title="Event information of North Korea's six nuclear tests." >}}
 
 **Table 1. Summary of event information of North Koare's six nuclear tests**
 
@@ -59,6 +60,10 @@ No.| Date       | Time         | Latitude | Longitude | Depth (m)
   Locations of six NKNTs in KML format.
 
 ## NKNT 2017
+
+On 3 September 2017, North Korea conducted sixth nuclear test, which is the
+largest. This test had resulted in an on-site collapse of the Mt. Mantap, and
+triggered an earthquake swarm 8.4 km north of the nuclear test site.
 
 For details of the collapse and earthquake swarm after the 2017 test,
 click [here]({{< ref "publication/north-korea-nuclear-test-2017-collapse" >}}).
