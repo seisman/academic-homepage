@@ -15,6 +15,9 @@ weight = 8
 
 +++
 
+-   **June 21, 2018**:
+    Dongdong Tian has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
+
 -   **May 28, 2018**:
     Dongdong Tian has sucessfully defended his Ph.D. thesis.
 
