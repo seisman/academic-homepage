@@ -42,6 +42,7 @@ He is working on the study of
 
 He is a fan of open source and also contributes to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
+[GMT/Python](https://www.gmtpython.xyz/),
 [SAC](https://seiscode.iris.washington.edu/projects/sac)
 and [ObsPy](http://docs.obspy.org/).
 
