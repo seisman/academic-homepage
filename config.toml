@@ -252,7 +252,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:dongzhi@mail.ustc.edu.cn"
+    link = "mailto:tiandong@msu.edu"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
