@@ -15,6 +15,10 @@ weight = 8
 
 +++
 
+-   **Aug. 1, 2018**:
+    Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of 
+    Earth and Environmental Sciences of Michigan State University.
+
 -   **June 21, 2018**:
     Dongdong Tian has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
 

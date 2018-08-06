@@ -56,18 +56,18 @@ enableGitInfo = false
 
   # Your details.
   name = "Dongdong Tian"
-  role = "Ph.D. in Geophysics"
+  role = "Postdoctoral Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Science and Technology of China", url = "http://en.ustc.edu.cn/" } ]
+  organizations = [ { name = "Michigan State University", url = "https://msu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "dongzhi@mail.ustc.edu.cn"
-  address = "Room 1127, Research Building, University of Science and Technology of China, No. 96, Jinzhai Road, Hefei, Anhui 230026, China."
+  email = "tiandong@msu.edu"
+  address = "Natural Science Building, 288 Farm Lane, Room 313, East Lansing, MI 48824, USA"
   office_hours = ""
-  phone = "+86-15055117035"
+  phone = "+1-(517)-775-1438"
   skype = ""
   telegram = ""
 
@@ -99,8 +99,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyBP5DIVloAvKk7NCjV2NzvsH7wLa5BB2Pw"
-  latitude = "31.84127"
-  longitude = "117.27036"
+  latitude = "42.731073"
+  longitude = "-84.4777983"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )

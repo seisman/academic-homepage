@@ -30,15 +30,13 @@ weight = 5
 
 +++
 
-Dongdong Tian is a Ph.D. in Geophysics at
-[University of Science and Technology of China](http://en.ustc.edu.cn/),
-supervised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
+Dongdong Tian is now a Postdoctoral Research Associate in Geophysics at
+[Michigan State University](https://msu.edu/),
+Copperation with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
 
 He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Explosions, Collaspe) and numerical simulations of seismic wavefield propagation.
-He is working on the study of
-[fine-scale structure of the Earth's inner core boundary]({{< ref "/project/inner-core-boundary.md" >}}).
 
 He is a fan of open source and also contributes to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
