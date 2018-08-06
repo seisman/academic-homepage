@@ -66,4 +66,4 @@ largest. This test had resulted in an on-site collapse of the Mt. Mantap, and
 triggered an earthquake swarm 8.4 km north of the nuclear test site.
 
 For details of the collapse and earthquake swarm after the 2017 test,
-click [here]({{< ref "publication/north-korea-nuclear-test-2017-collapse" >}}).
+click [here]({{< ref "/publication/north-korea-nuclear-test-2017-collapse" >}}).
