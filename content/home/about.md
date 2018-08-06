@@ -32,7 +32,7 @@ weight = 5
 
 Dongdong Tian is now a Postdoctoral Research Associate in Geophysics at
 [Michigan State University](https://msu.edu/),
-Copperation with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
+copperation with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
 
 He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
