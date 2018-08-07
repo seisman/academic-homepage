@@ -13,7 +13,6 @@ weight = 5
     "Structure of the Earth's Deep Interior",
     "Mechanisms of Small Seismic Events (Microseism, Explosions, Collapse)",
     "Numerical Simulation of Wave Propagation in Complex Media",
-    "Full Waveform Inversion",
     "Seismic Interferometry",
   ]
 
@@ -30,9 +29,11 @@ weight = 5
 
 +++
 
-Dongdong Tian is now a Postdoctoral Research Associate in Geophysics at
+Dongdong Tian is a Postdoctoral Research Associate in Geophysics at
 [Michigan State University](https://msu.edu/),
 copperation with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
+He received his Ph.D. degree from University of Science and Technology of China in 2018
+advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 He is passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources

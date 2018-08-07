@@ -6,7 +6,7 @@ date = 2018-01-08T00:00:00
 
 -   **Aug. 1, 2018**:
     Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of 
-    Earth and Environmental Sciences of Michigan State University.
+    Earth and Environmental Sciences, Michigan State University.
 
 -   **June 21, 2018**:
     Dongdong Tian has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
