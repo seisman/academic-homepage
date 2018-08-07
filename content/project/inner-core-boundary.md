@@ -6,7 +6,7 @@ weight = 1
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["inner-core-boundary"]
+tags = ["Inner Core Boundary"]
 
 # Project summary to display on homepage.
 summary = "Use pre-critically reflected PKiKP waves to study the fine-scale structure of the Earth's inner core boundary."

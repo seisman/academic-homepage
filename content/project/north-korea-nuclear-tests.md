@@ -6,7 +6,7 @@ weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["nuclear-tests"]
+tags = ["Nuclear Tests"]
 
 # Project summary to display on homepage.
 summary = "High-precision locations and source characteristics of North Korea's nuclear tests and associated small seismic events."
