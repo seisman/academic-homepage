@@ -140,7 +140,7 @@ enableGitInfo = false
   #
   #   highlight_languages
   #     Add support for highlighting additional languages. Support for
-  #     languages mentioned here will be included in all pages. 
+  #     languages mentioned here will be included in all pages.
   #
   #     Example: highlight_languages = ["go", "lisp", "ocaml"]
   #
@@ -333,8 +333,9 @@ enableGitInfo = false
 [params.search]
   # Search provider:
   #   0: No search engine
-  #   1: Algolia (https://www.algolia.com)
-  engine = 0
+  #   1: Built-in (Fuse)
+  #   2: Algolia (https://www.algolia.com)
+  engine = 1
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
