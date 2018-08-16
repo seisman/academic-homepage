@@ -9,7 +9,7 @@ weight = 2
 tags = ["Nuclear Tests"]
 
 # Project summary to display on homepage.
-summary = "High-precision locations and source characteristics of North Korea's nuclear tests and associated small seismic events."
+summary = "High-precision locations, yields and source characteristics of North Korea's nuclear tests and associated small seismic events."
 
 # Optional image to display on homepage.
 image_preview = "NKNT.jpg"
@@ -39,7 +39,7 @@ caption = ""
 North Korea has conducted six nuclear tests since 2006.
 Event information of the six nuclear test are given by
 [Prof. Lianxing Wen's group at USTC](http://seis.ustc.edu.cn/) and
-summarized by Yao et al. (submitted to SRL).
+summarized by Yao et al., 2018, SRL (accepted).
 
 **Table 1. Summary of event information of North Koare's six nuclear tests**
 
