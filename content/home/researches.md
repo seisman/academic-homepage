@@ -41,5 +41,9 @@ filter_default = 0
   name = "Nuclear Tests"
   tag = "Nuclear Tests"
 
+[[filter]]
+  name = "Mantle Discontinuities"
+  tag = "Mantle Discontinuities"
+
 +++
 
