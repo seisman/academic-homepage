@@ -4,7 +4,7 @@
 from collections import namedtuple
 import simplekml
 
-Event = namedtuple('Event', ['id', 'date', 'time', 'latitude', 'longitude', 'depth'])
+Event = namedtuple('Event', ['id', 'date', 'time', 'latitude', 'longitude', 'depth', 'yield_in_kt'])
 
 events = []
 with open("NKNT.dat", "r") as fin:
@@ -19,8 +19,9 @@ for event in events:
     point.coords = [(event.longitude, event.latitude)]
     point.style.iconstyle.icon.href = 'http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png'
     point.name = event.date
-    description = "<p><b>Origin</b>: {}T{}</p>".format(event.date, event.time)
+    description = "<p><b>Time</b>: {}T{}</p>".format(event.date, event.time)
     description += "<p><b>Burial Depth</b>: {} m</p>".format(event.depth)
+    description += "<p><b>Yield</b>: {} kt</p>".format(event.yield_in_kt)
 
     point.description = description
 
