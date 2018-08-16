@@ -22,7 +22,26 @@ publication = "*Seismological Research Letters*"
 publication_short = "*Seismol. Res. Lett.*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = """
+By employing an on-site collapse event as a reference and eliminating path effects
+of seismic wave propagation, we constrain source characteristics of
+North Korea's 3 September 2017 nuclear test. In the framework of a complete source model
+for an underground explosion consisting of an isotropic source representing the explosion
+and two secondary sources accompanying the explosion, with one represented
+by a double-couple (DC) attributed to tectonic release and
+the other an oblique compensated linear vector dipole (CLVD) attributed to source medium damage,
+the source model of the 2017 test is inferred from its noncircular radiation patterns of
+Rayleigh and Love waves using seismic observations of the collapse as references.
+Based on the opposite azimuths of the inferred oblique CLVD of the test and the collapsing
+force of the event 8.5 minutes later, we propose a deformation scenario of the 2017 test
+in that the test generates a prompt source medium damage expanding away from the test center
+mostly along the direction of 320° (represented by the oblique CLVD) and those deformed
+surrounding rocks collapse toward the test center along the weakness direction
+in an opposite way 8.5 minutes later (represented by the collapse). We further propose that
+an inferred obliqueness of CLVD accompanying a nuclear test may serve an indication of
+possible collapsing direction for the test. As the surface wave magnitude is strongly
+contaminated by those secondary sources, we estimate the yield of the 2017 test to
+be 109.4±48.6 kt based on the body wave Lg-magnitude."""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
