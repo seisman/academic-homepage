@@ -76,7 +76,7 @@ enableGitInfo = false
   email = "tiandong@msu.edu"
   address = "Natural Science Building, 288 Farm Lane, Room 313, East Lansing, MI 48824, USA"
   office_hours = ""
-  phone = "+1(517)775-1438"
+  phone = "+1 517 775 1438"
   skype = ""
   telegram = ""
 
@@ -112,7 +112,7 @@ enableGitInfo = false
   longitude = "-84.4777983"
   zoom = 15
 
-  # Date and time format (refer to Go's date format: https://sourcethemes.com/academic/docs/customization/#date-format )
+  # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
@@ -254,7 +254,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "globe"
     icon_pack = "fa"
-    link = "http://seisman.info"
+    link = "https://seisman.info"
 
   [[params.social]]
     icon = "envelope"
@@ -265,9 +265,8 @@ enableGitInfo = false
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   [[params.social]]
     icon = "cv"
-    icon_pack = "ai"
+    icon_pack = "ai"    
     link = "Dongdong_Tian_CV.pdf"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -343,6 +342,7 @@ enableGitInfo = false
     app_id = ""
     api_key = ""
     index_name = ""
+    show_logo = false
 
 # Taxonomies.
 [taxonomies]
@@ -352,7 +352,20 @@ enableGitInfo = false
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[Languages.en]
+[languages.en]
   languageCode = "en-us"
+
+# Uncomment the lines below to configure your website in a second language.
+#[languages.zh]
+#  languageCode = "zh-Hans"
+#  title = "Chinese website title..."
+#  [languages.zh.params]
+#    name = "Your name in Chinese..."
+#    role = "Your role in Chinese..."
+#  [[languages.zh.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1

@@ -1,10 +1,10 @@
 +++
-title = "Triggered Seismicity After North Korea’s 3 September 2017 Nuclear Test"
+title = "Triggered seismicity after North Korea's 3 September 2017 nuclear test"
 date = 2018-08-16T10:24:03-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiayuan Yao", "**Dongdong Tian**", "Zhou Lu", "Li Sun", "Lianxing Wen"]
+authors = ["Jiayuan Yao", "**Dongdong Tian**<sup>#</sup>", "Zhou Lu", "Li Sun", "Lianxing Wen"]
 
 # Publication type.
 # Legend:

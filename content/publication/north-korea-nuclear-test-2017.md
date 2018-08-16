@@ -1,10 +1,10 @@
 +++
-title = "Source Characteristics of North Korea's 3 September 2017 Nuclear Test"
+title = "Source characteristics of North Korea's 3 September 2017 nuclear test"
 date = 2018-08-16T10:23:53-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jiayuan Yao", "**Dongdong Tian**", "Li Sun", "Lianxing Wen"]
+authors = ["Jiayuan Yao", "**Dongdong Tian**<sup>#</sup>", "Li Sun", "Lianxing Wen"]
 
 # Publication type.
 # Legend:

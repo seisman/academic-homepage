@@ -5,14 +5,17 @@ widget = "publications"
 active = true
 date = 2017-06-16T00:00:00
 
-title = "Publications"
-subtitle = ""
+title = "Recent Publications"
+subtitle = '''
+<sup>&#35;</sup> co-first author \\
+<sup>&#42;</sup> corresponding author
+'''
 
 # Order that this section will appear in.
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 5
 
 # List format.
 #   0 = Simple

@@ -2,6 +2,7 @@
 title = "Mantle Discontinuities"
 date = 2018-08-16T10:45:14-04:00
 draft = false
+weight = 3
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -20,7 +21,7 @@ external_link = ""
 math = false
 
 # Does the project detail page use source code highlighting?
-highlight = true
+highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.

@@ -47,7 +47,7 @@ selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter the filename of your project file in `content/project/`.
+#   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
 projects = ["north-korea-nuclear-tests"]

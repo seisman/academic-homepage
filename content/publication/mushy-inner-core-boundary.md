@@ -19,10 +19,18 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature Communications*"
-publication_short = ""
+publication_short = "*Nat. Commun.*"
 
 # Abstract and optional shortened version.
-abstract = "Although existence of a mushy zone in the Earth’s inner core has been hypothesized several decades ago, no seismic evidence has ever been reported. Based on waveform modeling of seismic compressional waves that are reflected off the Earth’s inner core boundary, here we present seismic evidence for a localized 4–8 km thick zone across the inner core boundary beneath southwest Okhotsk Sea with seismic properties intermediate between those of the inner and outer core and of a mushy zone. Such a localized mushy zone is found to be surrounded by a sharp inner core boundary nearby. These seismic results suggest that, in the current thermo-compositional state of the Earth’s core, the outer core composition is close to eutectic in most regions resulting in a sharp inner core boundary, but deviation from the eutectic composition exists in some localized regions resulting in a mushy zone with a thickness of 4–8 km."
+abstract = """Although existence of a mushy zone in the Earth's inner core has been hypothesized several decades ago, 
+no seismic evidence has ever been reported. Based on waveform modeling of seismic compressional waves 
+that are reflected off the Earth’s inner core boundary, here we present seismic evidence for a localized 4–8 km 
+thick zone across the inner core boundary beneath southwest Okhotsk Sea with seismic properties intermediate 
+between those of the inner and outer core and of a mushy zone. Such a localized mushy zone is found to be 
+surrounded by a sharp inner core boundary nearby. These seismic results suggest that, 
+in the current thermo-compositional state of the Earth’s core, the outer core composition is close to eutectic 
+in most regions resulting in a sharp inner core boundary, but deviation from the eutectic composition exists 
+in some localized regions resulting in a mushy zone with a thickness of 4–8 km."""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -33,8 +41,9 @@ selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   Simply enter your project's filename without extension.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Otherwise, set `projects = []`.
 projects = ["inner-core-boundary"]
 
 # Tags (optional).

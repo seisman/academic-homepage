@@ -1,11 +1,23 @@
 +++
 title = "List of News"
 date = 2018-01-08T00:00:00
+lastmod = 2018-08-01T00:00:00
+
+# Tags and categories
+# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+categories = []
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
 
 +++
 
 -   **Aug. 1, 2018**:
-    Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of 
+    Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
     Earth and Environmental Sciences, Michigan State University.
 
 -   **June 21, 2018**:
