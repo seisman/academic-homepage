@@ -22,14 +22,14 @@ publication = "*Nature Communications*"
 publication_short = "*Nat. Commun.*"
 
 # Abstract and optional shortened version.
-abstract = """Although existence of a mushy zone in the Earth's inner core has been hypothesized several decades ago, 
-no seismic evidence has ever been reported. Based on waveform modeling of seismic compressional waves 
-that are reflected off the Earth’s inner core boundary, here we present seismic evidence for a localized 4–8 km 
-thick zone across the inner core boundary beneath southwest Okhotsk Sea with seismic properties intermediate 
-between those of the inner and outer core and of a mushy zone. Such a localized mushy zone is found to be 
-surrounded by a sharp inner core boundary nearby. These seismic results suggest that, 
-in the current thermo-compositional state of the Earth’s core, the outer core composition is close to eutectic 
-in most regions resulting in a sharp inner core boundary, but deviation from the eutectic composition exists 
+abstract = """Although existence of a mushy zone in the Earth's inner core has been hypothesized several decades ago,
+no seismic evidence has ever been reported. Based on waveform modeling of seismic compressional waves
+that are reflected off the Earth’s inner core boundary, here we present seismic evidence for a localized 4–8 km
+thick zone across the inner core boundary beneath southwest Okhotsk Sea with seismic properties intermediate
+between those of the inner and outer core and of a mushy zone. Such a localized mushy zone is found to be
+surrounded by a sharp inner core boundary nearby. These seismic results suggest that,
+in the current thermo-compositional state of the Earth’s core, the outer core composition is close to eutectic
+in most regions resulting in a sharp inner core boundary, but deviation from the eutectic composition exists
 in some localized regions resulting in a mushy zone with a thickness of 4–8 km."""
 abstract_short = ""
 
@@ -78,3 +78,24 @@ image = ""
 caption = ""
 
 +++
+
+### Cited By
+
+
+4.  Attanayake, J., Thomas, C., Cormier, V. F., Miller, M. S., & Koper, K. D. (2018).
+    Irregular Transition Layer Beneath the Earth’s Inner Core Boundary from Observations of Antipodal PKIKP and PKIIKP Waves.
+    *Geochemistry, Geophysics, Geosystems*.
+    https://doi.org/10.1029/2018GC007562
+3.  温联星, 田冬冬, & 姚家园. (2018).
+    地球内核及其边界的结构特征和动力学过程.
+    *地球物理学报*, 61(3), 803-818.
+    https://doi.org/10.6038/cjg2018L0500
+2.  Adam, J. M.-C., Ibourichène, A., & Romanowicz, B. (2018).
+    Observation of core sensitive phases: Constraints on the velocity and attenuation profile in the vicinity of the inner-core boundary.
+    *Physics of the Earth and Planetary Interiors*, 275, 19–31.
+    https://doi.org/10.1016/j.pepi.2017.12.008
+1.  Godwin, H., Waszek, L., & Deuss, A. (2018).
+    Measuring the seismic velocity in the top 15 km of Earth’s inner core.
+    *Physics of the Earth and Planetary Interiors*, 274, 158–169.
+    https://doi.org/10.1016/j.pepi.2017.11.010
+

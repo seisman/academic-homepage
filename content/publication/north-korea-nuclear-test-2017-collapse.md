@@ -23,17 +23,17 @@ publication_short = "*Geophys. Res. Lett.*"
 
 # Abstract and optional shortened version.
 abstract = """
-North Korea's 3 September 2017 nuclear test was followed by several small seismic events, 
-with one eight‐and‐a‐half minutes after the test and three on and after 23 September 2017. 
-Seismic analysis reveals that the first event is a near vertical on‐site collapse 
-toward the nuclear test center from 440 ± 260 m northwest of the test site, 
-with its seismic source best represented by a single force with a dip angle of 70°–75° and an azimuth of ~150°, 
-and the later events are an earthquake swarm located 8.4 ± 1.7 km north of the test site within a region of 520 m, 
-with a focal depth of at least 2.4 km and a focal mechanism of nearly pure strike slip along the north‐south direction 
-with a high dip angle of 50°–90°. The occurrence of the on‐site collapse calls for continued monitoring of 
+North Korea's 3 September 2017 nuclear test was followed by several small seismic events,
+with one eight‐and‐a‐half minutes after the test and three on and after 23 September 2017.
+Seismic analysis reveals that the first event is a near vertical on‐site collapse
+toward the nuclear test center from 440 ± 260 m northwest of the test site,
+with its seismic source best represented by a single force with a dip angle of 70°–75° and an azimuth of ~150°,
+and the later events are an earthquake swarm located 8.4 ± 1.7 km north of the test site within a region of 520 m,
+with a focal depth of at least 2.4 km and a focal mechanism of nearly pure strike slip along the north‐south direction
+with a high dip angle of 50°–90°. The occurrence of the on‐site collapse calls for continued monitoring of
 any leaks of radioactive materials from the test site."""
 abstract_short = """
-1. We present high-precision locations and detailed source information of four small seismic events 
+1. We present high-precision locations and detailed source information of four small seismic events
    following North Korea's 2017 nuclear test;
 2. The first event is an on-site collapse 440 m northwest of the test site and best explained by a near vertical single force;
 3. The later events are an earthquake swarm located 8.4 km north of the test site with a focal depth of at least 2.4 km.
@@ -84,3 +84,18 @@ image = ""
 caption = ""
 
 +++
+
+### Cited By
+
+3.  Myers, S. C., Ford, S. R., Mellors, R. J., Baker, S., & Ichinose, G. (2018).
+    Absolute Locations of the North Korean Nuclear Tests Based on Differential Seismic Arrival Times and InSAR.
+    Seismological Research Letters.
+    https://doi.org/10.1785/0220180123
+2.  Kim, S. G., Gitterman, Y., & Lee, S. (2018).
+    Depth Calculation for the January 06, 2016, the September 09, 2016 and the September 03, 2017 Nuclear Tests of North Korea from Detailed Depth Phases Using Regional and Teleseismic Arrays.
+    Pure and Applied Geophysics.
+    https://doi.org/10.1007/s00024-018-1958-y
+1.  Wang, T., Shi, Q., Nikkhoo, M., Wei, S., Barbot, S., Dreger, D., et al. (2018).
+    The rise, collapse, and compaction of Mt. Mantap from the 3 September 2017 North Korean nuclear test.
+    Science, 361, 166-170.
+    https://doi.org/10.1126/science.aar7230
