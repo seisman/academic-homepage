@@ -87,6 +87,10 @@ caption = ""
 
 ### Cited By
 
+4.  Pabian, F., & Coblentz, D. (2018).
+    Observed Surface Disturbances Associated with the DPRK's 3 September 2017 Underground Nuclear Test.
+    Seismological Research Letters.
+    https://doi.org/10.1785/0220180120
 3.  Myers, S. C., Ford, S. R., Mellors, R. J., Baker, S., & Ichinose, G. (2018).
     Absolute Locations of the North Korean Nuclear Tests Based on Differential Seismic Arrival Times and InSAR.
     Seismological Research Letters.
