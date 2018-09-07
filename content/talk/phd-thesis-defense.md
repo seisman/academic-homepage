@@ -8,6 +8,9 @@ draft = false
 time_start = 2018-05-28T09:30:00
 time_end = 2018-05-28T11:30:00
 
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Dongdong Tian"]
+
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
