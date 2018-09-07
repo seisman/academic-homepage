@@ -29,17 +29,17 @@ weight = 5
 
 +++
 
-Dongdong Tian is a Postdoctoral Research Associate in Geophysics at
+I am currently a Postdoctoral Research Associate in Geophysics at
 [Michigan State University](https://msu.edu/),
-copperation with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
-He received his Ph.D. degree from University of Science and Technology of China in 2018
+collaboration with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
+I received my Ph.D. degree from University of Science and Technology of China in 2018
 advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
-He is passionate about contributing to a further understanding of structure
+I am passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Explosions, Collaspe) and numerical simulations of seismic wavefield propagation.
 
-He is a fan of open source and also contributes to geophysics-related softwares, such as
+I am a fan of open source and also contribute to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
 [GMT/Python](https://www.gmtpython.xyz/),
 [SAC](https://seiscode.iris.washington.edu/projects/sac)
