@@ -17,15 +17,15 @@ weight = 60
 
 ## Softwares
 
-- [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/).
+<i class="fab fa-python"></i> [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/) </br>
 
 ## Documentations
 
-- [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (*in Chinese*)
-- [GMT Reference Manual](http://docs.gmt-china.org/) (*in Chinese*)
-- [GMT Modules Manual](http://modules.gmt-china.org/) (*in Chinese*)
+<i class="fas fa-book"></i> [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (*in Chinese*) </br>
+<i class="fas fa-book"></i> [GMT Reference Manual](http://docs.gmt-china.org/) (*in Chinese*) </br>
+<i class="fas fa-book"></i> [GMT Modules Manual](http://modules.gmt-china.org/) (*in Chinese*) </br>
 
 ## Websites
 
-- [SeisMan Blog](http://blog.seisman.info/): My personal academic blog (*in Chinese*)
-- [GMT Chinese Community](http://gmt-china.org/) (*in Chinese*)
+<i class="fas fa-globe"></i> [SeisMan Blog](http://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
+<i class="fas fa-globe"></i> [GMT Chinese Community](http://gmt-china.org/) (*in Chinese*) </br>
