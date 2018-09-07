@@ -22,10 +22,10 @@ weight = 60
 ## Documentations
 
 <i class="fas fa-book"></i> [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (*in Chinese*) </br>
-<i class="fas fa-book"></i> [GMT Reference Manual](http://docs.gmt-china.org/) (*in Chinese*) </br>
-<i class="fas fa-book"></i> [GMT Modules Manual](http://modules.gmt-china.org/) (*in Chinese*) </br>
+<i class="fas fa-book"></i> [GMT Reference Manual](https://docs.gmt-china.org/) (*in Chinese*) </br>
+<i class="fas fa-book"></i> [GMT Modules Manual](https://modules.gmt-china.org/) (*in Chinese*) </br>
 
 ## Websites
 
-<i class="fas fa-globe"></i> [SeisMan Blog](http://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
-<i class="fas fa-globe"></i> [GMT Chinese Community](http://gmt-china.org/) (*in Chinese*) </br>
+<i class="fas fa-globe"></i> [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
+<i class="fas fa-globe"></i> [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
