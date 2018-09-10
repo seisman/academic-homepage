@@ -1,6 +1,6 @@
 +++
 title = "Triggered seismicity after North Korea's 3 September 2017 nuclear test"
-date = 2018-08-16T10:24:03-04:00
+date = 2018-09-09T10:24:03-04:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
