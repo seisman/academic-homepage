@@ -87,6 +87,10 @@ caption = ""
 
 ### Cited By
 
+5.  Dodge, D. A. (2018). 
+    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors. 
+    Seismological Research Letters. 
+    https://doi.org/10.1785/0220180127
 4.  Pabian, F., & Coblentz, D. (2018).
     Observed Surface Disturbances Associated with the DPRK's 3 September 2017 Underground Nuclear Test.
     Seismological Research Letters.

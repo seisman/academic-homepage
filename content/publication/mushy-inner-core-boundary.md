@@ -24,7 +24,7 @@ publication_short = "*Nat. Commun.*"
 # Abstract and optional shortened version.
 abstract = """Although existence of a mushy zone in the Earth's inner core has been hypothesized several decades ago,
 no seismic evidence has ever been reported. Based on waveform modeling of seismic compressional waves
-that are reflected off the Earth’s inner core boundary, here we present seismic evidence for a localized 4–8 km
+that are reflected off the Earth's inner core boundary, here we present seismic evidence for a localized 4–8 km
 thick zone across the inner core boundary beneath southwest Okhotsk Sea with seismic properties intermediate
 between those of the inner and outer core and of a mushy zone. Such a localized mushy zone is found to be
 surrounded by a sharp inner core boundary nearby. These seismic results suggest that,

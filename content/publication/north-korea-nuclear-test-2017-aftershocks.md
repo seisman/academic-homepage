@@ -86,3 +86,10 @@ image = ""
 caption = ""
 
 +++
+
+### Cited By
+
+1.  Dodge, D. A. (2018). 
+    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors. 
+    Seismological Research Letters. 
+    https://doi.org/10.1785/0220180127
