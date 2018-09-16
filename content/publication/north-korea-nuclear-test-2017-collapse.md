@@ -57,7 +57,7 @@ projects = ["north-korea-nuclear-tests"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1029/2018GL077649"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -70,6 +70,9 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "10.1029/2018GL077649"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -87,9 +90,9 @@ caption = ""
 
 ### Cited By
 
-5.  Dodge, D. A. (2018). 
-    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors. 
-    Seismological Research Letters. 
+5.  Dodge, D. A. (2018).
+    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors.
+    Seismological Research Letters.
     https://doi.org/10.1785/0220180127
 4.  Pabian, F., & Coblentz, D. (2018).
     Observed Surface Disturbances Associated with the DPRK's 3 September 2017 Underground Nuclear Test.

@@ -57,7 +57,7 @@ projects = ["north-korea-nuclear-tests"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1785/0220180135"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -70,6 +70,9 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "10.1785/0220180135"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

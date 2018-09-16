@@ -51,7 +51,7 @@ projects = ["inner-core-boundary"]
 tags = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1038/s41467-017-00229-9"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -64,6 +64,9 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "10.1038/s41467-017-00229-9"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
