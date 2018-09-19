@@ -69,7 +69,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Citations: 1", url = "https://scholar.google.com/scholar?cites=7272709346017650175"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1785/0220180135"
@@ -87,10 +87,3 @@ image = ""
 caption = ""
 
 +++
-
-### Cited By
-
-1.  Dodge, D. A. (2018).
-    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors.
-    Seismological Research Letters.
-    https://doi.org/10.1785/0220180127

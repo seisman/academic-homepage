@@ -69,7 +69,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Citations: 7", url = "https://scholar.google.com/scholar?cites=5482057111698071343"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1029/2018GL077649"
@@ -87,26 +87,3 @@ image = ""
 caption = ""
 
 +++
-
-### Cited By
-
-5.  Dodge, D. A. (2018).
-    Searching for Induced Seismicity at Punggye‐ri Nuclear Test Site Using Subspace Detectors.
-    Seismological Research Letters.
-    https://doi.org/10.1785/0220180127
-4.  Pabian, F., & Coblentz, D. (2018).
-    Observed Surface Disturbances Associated with the DPRK's 3 September 2017 Underground Nuclear Test.
-    Seismological Research Letters.
-    https://doi.org/10.1785/0220180120
-3.  Myers, S. C., Ford, S. R., Mellors, R. J., Baker, S., & Ichinose, G. (2018).
-    Absolute Locations of the North Korean Nuclear Tests Based on Differential Seismic Arrival Times and InSAR.
-    Seismological Research Letters.
-    https://doi.org/10.1785/0220180123
-2.  Kim, S. G., Gitterman, Y., & Lee, S. (2018).
-    Depth Calculation for the January 06, 2016, the September 09, 2016 and the September 03, 2017 Nuclear Tests of North Korea from Detailed Depth Phases Using Regional and Teleseismic Arrays.
-    Pure and Applied Geophysics.
-    https://doi.org/10.1007/s00024-018-1958-y
-1.  Wang, T., Shi, Q., Nikkhoo, M., Wei, S., Barbot, S., Dreger, D., et al. (2018).
-    The rise, collapse, and compaction of Mt. Mantap from the 3 September 2017 North Korean nuclear test.
-    Science, 361, 166-170.
-    https://doi.org/10.1126/science.aar7230

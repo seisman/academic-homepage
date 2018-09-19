@@ -63,7 +63,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Citations: 3", url = "https://scholar.google.com/scholar?cites=1247273029144835814"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41467-017-00229-9"
@@ -81,24 +81,3 @@ image = ""
 caption = ""
 
 +++
-
-### Cited By
-
-
-4.  Attanayake, J., Thomas, C., Cormier, V. F., Miller, M. S., & Koper, K. D. (2018).
-    Irregular Transition Layer Beneath the Earth’s Inner Core Boundary from Observations of Antipodal PKIKP and PKIIKP Waves.
-    *Geochemistry, Geophysics, Geosystems*.
-    https://doi.org/10.1029/2018GC007562
-3.  温联星, 田冬冬, & 姚家园. (2018).
-    地球内核及其边界的结构特征和动力学过程.
-    *地球物理学报*, 61(3), 803-818.
-    https://doi.org/10.6038/cjg2018L0500
-2.  Adam, J. M.-C., Ibourichène, A., & Romanowicz, B. (2018).
-    Observation of core sensitive phases: Constraints on the velocity and attenuation profile in the vicinity of the inner-core boundary.
-    *Physics of the Earth and Planetary Interiors*, 275, 19–31.
-    https://doi.org/10.1016/j.pepi.2017.12.008
-1.  Godwin, H., Waszek, L., & Deuss, A. (2018).
-    Measuring the seismic velocity in the top 15 km of Earth’s inner core.
-    *Physics of the Earth and Planetary Interiors*, 274, 158–169.
-    https://doi.org/10.1016/j.pepi.2017.11.010
-
