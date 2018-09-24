@@ -18,8 +18,8 @@ authors = ["Jiayuan Yao", "**Dongdong Tian**<sup>#</sup>", "Zhou Lu", "Li Sun", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Seismological Research Letters"
-publication_short = "Seismol. Res. Lett."
+publication = "*Seismological Research Letters*"
+publication_short = "*Seismol. Res. Lett.*"
 
 # Abstract and optional shortened version.
 abstract = """
