@@ -69,7 +69,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Citations: 7", url = "https://scholar.google.com/scholar?cites=5482057111698071343"}]
+url_custom = [{name = "Citations: 10", url = "https://scholar.google.com/scholar?cites=5482057111698071343"}]
 
 # Digital Object Identifier (DOI)
 doi = "10.1029/2018GL077649"
