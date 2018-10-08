@@ -19,6 +19,11 @@ caption = ""
 -   **Oct. 1, 2018**:
     Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**, 
     the highest award for graduate students of Chinese Academy of Sciences.
+
+-   **Sep. 12, 2018**:
+    Our two papers about the seismic characteristics of North Korea's September 2017
+    nuclear test and its triggered aftershock sequences are published online 
+    by Seismological Research Letters.
     
 -   **Aug. 1, 2018**:
     Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
