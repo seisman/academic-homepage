@@ -16,6 +16,10 @@ caption = ""
 
 +++
 
+-   **Oct. 1, 2018**:
+    Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**, 
+    the highest award for graduate students of Chinese Academy of Sciences.
+    
 -   **Aug. 1, 2018**:
     Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
     Earth and Environmental Sciences, Michigan State University.

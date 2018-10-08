@@ -15,6 +15,7 @@ weight = 63
 
 +++
 
+- **2018:** President Award, Chinese Academy of Science, China. ![](https://img.shields.io/badge/top-1%25-blue.svg) 
 - **2018:** Outstanding Graduate Student, University of Science and Technology of China, China. ![](https://img.shields.io/badge/top-15%25-blue.svg)
 - **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China.
 - **2017:** National Scholarship for Doctoral Students, Ministry of Education, China. ![](https://img.shields.io/badge/top-5%25-blue.svg)
