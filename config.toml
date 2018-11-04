@@ -13,7 +13,7 @@ title = "Dongdong Tian"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2012â€”2018 Dongdong Tian"
+copyright = "&copy; 2012 - 2018 Dongdong Tian"
 
 theme = "academic"
 enableEmoji = true
@@ -92,14 +92,14 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyBP5DIVloAvKk7NCjV2NzvsH7wLa5BB2Pw"
-  latitude = "42.731073"
-  longitude = "-84.4777983"
+  latitude = "42.731066"
+  longitude = "-84.477028"
   zoom = 15
 
   # SITE SETUP
 
   # Color theme.
-  #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+  #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
   color_theme = "default"
 
   # Font style.
@@ -163,7 +163,7 @@ enableGitInfo = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-  highlight = false
+  highlight = true
   highlight_languages = []
   # highlight_style = "github"
 
@@ -213,12 +213,25 @@ enableGitInfo = false
     # List publications and talks related to the project?
     list_children = true
 
+    # Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
+
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
+    #   4 = Stream
     publication_format = 3
+
+    # Talk list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    talk_format = 0
 
   # Social/Academic Networking
   #
@@ -256,7 +269,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/seisman"
+    link = "https://github.com/seisman"
 
   [[params.social]]
     icon = "globe"

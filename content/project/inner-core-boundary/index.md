@@ -9,26 +9,45 @@ weight = 1
 tags = ["Inner Core Boundary"]
 
 # Project summary to display on homepage.
-summary = "Use pre-critically reflected PKiKP waves to study the fine-scale structure of the Earth's inner core boundary."
+summary = """Use pre-critically reflected PKiKP waves to study the fine-scale
+structure of the Earth's inner core boundary."""
 
-# Optional image to display on homepage.
-image_preview = "PKiKP-Raypath.png"
+# Slides (optional).
+#   Associate this page with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Does the project detail page use math formatting?
-math = true
+# Links (optional).
+url_pdf = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
 
-# Does the project detail page use source code highlighting?
-highlight = false
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = true
 +++
 
 The Earth's solid inner core grows from the solidification of the liquid

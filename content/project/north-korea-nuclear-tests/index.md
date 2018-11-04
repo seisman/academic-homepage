@@ -9,26 +9,45 @@ weight = 2
 tags = ["Nuclear Tests"]
 
 # Project summary to display on homepage.
-summary = "High-precision locations, yields and source characteristics of North Korea's nuclear tests and associated small seismic events."
+summary = """High-precision locations, yields and source characteristics of
+North Korea's nuclear tests and associated small seismic events."""
 
-# Optional image to display on homepage.
-image_preview = "NKNT.jpg"
+# Slides (optional).
+#   Associate this page with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-# Does the project detail page use math formatting?
-math = false
+# Links (optional).
+url_pdf = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
 
-# Does the project detail page use source code highlighting?
-highlight = false
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = true
 +++
 
 North Korea has conducted six nuclear tests since 2006.
@@ -38,7 +57,7 @@ North Korea has conducted six nuclear tests since 2006.
 ### Event information of six NKNTs
 
 Event information of the six nuclear test are summarized by
-[Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017" >}}).
+[Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017/index.md" >}}).
 
 **Table 1. Summary of event information of North Koare's six nuclear tests**
 
@@ -63,19 +82,19 @@ On 3 September 2017, North Korea conducted sixth nuclear test, which is the
 largest.
 
 For details of the source characteristic of the 2017 test,
-see [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017" >}}).
+see [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017/index.md" >}}).
 
 #### Collapse event 8.5 minutes after the 2017 test
 
 The 2017 test had resulted in an on-site collapse of the Mt. Mantap.
 
 For details of the collapse event after the 2017 test,
-see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse" >}}).
+see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}}).
 
 #### Seismicty Triggered by the 2017 test
 
 The 2017 test triggered an earthquake swarm 8.4 km north of the nuclear test site.
 
 For details of the earthquake swarm after the 2017 test,
-see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse" >}})
-and [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017-aftershocks" >}}).
+see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}})
+and [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017-aftershocks/index.md" >}}).

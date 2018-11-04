@@ -33,18 +33,24 @@ in most regions resulting in a sharp inner core boundary, but deviation from the
 in some localized regions resulting in a mushy zone with a thickness of 4–8 km."""
 abstract_short = ""
 
-# Featured image thumbnail (optional)
-image_preview = ""
-
 # Is this a selected publication? (true/false)
 selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
-#   Simply enter your project's filename without extension.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["inner-core-boundary"]
+
+# Slides (optional).
+#   Associate this page with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -68,16 +74,13 @@ url_custom = [{name = "Citations: 3", url = "https://scholar.google.com/scholar?
 # Digital Object Identifier (DOI)
 doi = "10.1038/s41467-017-00229-9"
 
-# Does this page contain LaTeX math? (true/false)
-math = false
-
-# Does this page require source code highlighting? (true/false)
-highlight = false
-
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++

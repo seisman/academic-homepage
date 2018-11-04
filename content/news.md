@@ -39,7 +39,7 @@ caption = ""
     Our seismic analysis reveals that North Korea's 3 September 2017 nuclear test
     has resulted in an on-site collapse toward the nuclear test center, and
     possibly triggered an earthquake swarm ~8.4 km north of the test site.
-    [This paper]({{< ref "publication/north-korea-nuclear-test-2017-collapse.md" >}})
+    [This paper]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}})
     is now available on
     [Geophysical Research Letters](https://doi.org/10.1029/2018GL077649).
 
@@ -58,6 +58,6 @@ caption = ""
 -   **Aug. 1, 2017**:
     We present the first seismological evidence for a localized mushy zone
     across the Earth's inner core boundary beneath southwest Okhotsk Sea.
-    [This paper]({{< ref "publication/mushy-inner-core-boundary.md" >}})
+    [This paper]({{< ref "/publication/mushy-inner-core-boundary/index.md" >}})
     is now available on
     [*Nature Communications*](https://doi.org/10.1038/s41467-017-00229-9).
