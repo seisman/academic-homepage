@@ -41,6 +41,5 @@ of the Earth's deep interior, characteristics of seismic sources
 
 I am a fan of open source and also contribute to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
-[GMT/Python](https://www.gmtpython.xyz/),
-[SAC](https://seiscode.iris.washington.edu/projects/sac)
+[PyGMT](https://www.pygmt.org/),
 and [ObsPy](http://docs.obspy.org/).
