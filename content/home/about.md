@@ -37,7 +37,7 @@ advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 I am passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
-(e.g. Microseismic, Explosions, Collaspe) and numerical simulations of seismic wavefield propagation.
+(e.g. Microseismic, Explosions, Collapse) and numerical simulations of seismic wavefield propagation.
 
 I am a fan of open source and also contribute to geophysics-related softwares, such as
 [GMT](http://gmt.soest.hawaii.edu/),
