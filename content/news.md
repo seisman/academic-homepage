@@ -9,22 +9,25 @@ tags = []
 categories = []
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 
 -   **Oct. 1, 2018**:
-    Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**, 
+    Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**,
     the highest award for graduate students of Chinese Academy of Sciences.
 
 -   **Sep. 12, 2018**:
     Our two papers about the seismic characteristics of North Korea's September 2017
-    nuclear test and its triggered aftershock sequences are published online 
+    nuclear test and its triggered aftershock sequences are published online
     by Seismological Research Letters.
-    
+
 -   **Aug. 1, 2018**:
     Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
     Earth and Environmental Sciences, Michigan State University.

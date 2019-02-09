@@ -39,8 +39,8 @@ abstract_short = """
 3. The later events are an earthquake swarm located 8.4 km north of the test site with a focal depth of at least 2.4 km.
 """
 
-# Is this a selected publication? (true/false)
-selected = true
+# Is this a featured publication? (true/false)
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,14 +49,6 @@ selected = true
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["north-korea-nuclear-tests"]
-
-# Slides (optional).
-#   Associate this page with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -79,6 +71,9 @@ url_custom = [{name = "Citations: 12", url = "https://scholar.google.com/scholar
 
 # Digital Object Identifier (DOI)
 doi = "10.1029/2018GL077649"
+
+# Does this page contain LaTeX math? (true/false)
+math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

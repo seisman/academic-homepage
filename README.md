@@ -1,4 +1,4 @@
-# Academic Homepage at USTC
+# Academic Homepage at MSU
 
 [![Build Status](https://travis-ci.org/seisman/academic-homepage.svg?branch=master)](https://travis-ci.org/seisman/academic-homepage)
 

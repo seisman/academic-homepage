@@ -37,8 +37,8 @@ and seismological estimates of the hurricane seismic source model could be used 
 pressure fluctuation in the region of hurricane center for hurricane physics studies."""
 abstract_short = ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Is this a featured publication? (true/false)
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -47,14 +47,6 @@ selected = false
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
-
-# Slides (optional).
-#   Associate this page with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -77,6 +69,9 @@ url_custom = [{name = "Citations: 7", url = "https://scholar.google.com/scholar?
 
 # Digital Object Identifier (DOI)
 doi = "10.1002/2015JB012282"
+
+# Does this page contain LaTeX math? (true/false)
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

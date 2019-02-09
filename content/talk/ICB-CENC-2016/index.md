@@ -7,6 +7,7 @@ draft = false
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2016-06-30T09:00:00
 time_end = 2016-06-30T09:20:00
+all_day = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dongdong Tian"]
@@ -16,14 +17,14 @@ abstract = ""
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "China Earthquake Networks Center, Beijing, China"
+event = "China Earthquake Networks Center"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "Beijing, China"
 
-# Is this a selected talk? (true/false)
-selected = false
+# Is this a featured talk? (true/false)
+featured = false
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
@@ -33,23 +34,26 @@ selected = false
 #   Otherwise, set `projects = []`.
 projects = ["inner-core-boundary"]
 
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
+
 # Slides (optional).
-#   Associate this page with Markdown slides.
+#   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-
 # Links (optional).
 url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
+
+# Does the content use math formatting?
+math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
