@@ -45,6 +45,8 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
+  # Show image only in page previews?
+  preview_only = true
 +++
 
 North Korea has conducted six nuclear tests since 2006.
