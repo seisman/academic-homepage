@@ -16,7 +16,7 @@ role = "Postdoctoral Research Associate"
 organizations = [ { name = "Michigan State University", url = "https://msu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I'm a seismologist."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
