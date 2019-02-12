@@ -1,7 +1,6 @@
 +++
 title = "Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test"
 date =  2018-04-27T00:00:00
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Dongdong Tian**", "Jiayuan Yao", "Lianxing Wen"]
@@ -21,7 +20,7 @@ publication_types = ["2"]
 publication = "*Geophysical Research Letters*"
 publication_short = "*Geophys. Res. Lett.*"
 
-# Abstract and optional shortened version.
+# Abstract.
 abstract = """
 North Korea's 3 September 2017 nuclear test was followed by several small seismic events,
 with one eight‐and‐a‐half minutes after the test and three on and after 23 September 2017.
@@ -32,15 +31,24 @@ and the later events are an earthquake swarm located 8.4 ± 1.7 km north of the 
 with a focal depth of at least 2.4 km and a focal mechanism of nearly pure strike slip along the north‐south direction
 with a high dip angle of 50°–90°. The occurrence of the on‐site collapse calls for continued monitoring of
 any leaks of radioactive materials from the test site."""
-abstract_short = """
+
+# Summary. An optional shortened abstract.
+summary = """
 1. We present high-precision locations and detailed source information of four small seismic events
    following North Korea's 2017 nuclear test;
 2. The first event is an on-site collapse 440 m northwest of the test site and best explained by a near vertical single force;
 3. The later events are an earthquake swarm located 8.4 km north of the test site with a focal depth of at least 2.4 km.
 """
 
+# Digital Object Identifier (DOI)
+doi = "10.1029/2018GL077649"
+
 # Is this a featured publication? (true/false)
 featured = true
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,10 +57,6 @@ featured = true
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["north-korea-nuclear-tests"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
 
 # Links (optional).
 url_pdf = ""
@@ -68,9 +72,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Citations: 13", url = "https://scholar.google.com/scholar?cites=5482057111698071343"}]
-
-# Digital Object Identifier (DOI)
-doi = "10.1029/2018GL077649"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

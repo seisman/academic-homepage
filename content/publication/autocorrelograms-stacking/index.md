@@ -1,7 +1,6 @@
 +++
 title = "A new method for earthquake depth determination: stacking multiple-station autocorrelograms"
 date = 2014-02-26T00:00:00
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Miao Zhang", "**Dongdong Tian**", "Lianxing Wen"]
@@ -21,7 +20,7 @@ publication_types = ["2"]
 publication = "*Geophysical Journal International*"
 publication_short = "*Geophys. J. Int.*"
 
-# Abstract and optional shortened version.
+# Abstract.
 abstract = """
 Accurate determination of earthquake depth is important, but particularly challenging.
 We develop a new method to determine the earthquake source depth by stacking multiple-station autocorrelograms (SMAC)
@@ -41,10 +40,19 @@ we apply the SMAC method to determine the source depth of an earthquake occurrin
 The procedures of using both main SH waves and their coda waves yield robust surface reflected energy
 and a consistent source depth. The error of the depth estimation is less than 1 km assuming an
 uncertainty of 10 per cent in the averaged crust velocity."""
-abstract_short = ""
+
+# Summary. An optional shortened abstract.
+summary = ""
+
+# Digital Object Identifier (DOI)
+doi = "10.1093/gji/ggu044"
 
 # Is this a featured publication? (true/false)
 featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,10 +61,6 @@ featured = false
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
 
 # Links (optional).
 url_pdf = ""
@@ -72,9 +76,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Citations: 7", url = "https://scholar.google.com/scholar?cites=4825604373906396874"}]
-
-# Digital Object Identifier (DOI)
-doi = "10.1093/gji/ggu044"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

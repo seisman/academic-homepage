@@ -1,7 +1,6 @@
 +++
 title = "Source characteristics of North Korea's 3 September 2017 nuclear test"
 date = 2018-09-12T00:00:00
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Jiayuan Yao", "**Dongdong Tian**<sup>#</sup>", "Li Sun", "Lianxing Wen"]
@@ -21,7 +20,7 @@ publication_types = ["2"]
 publication = "*Seismological Research Letters*"
 publication_short = "*Seismol. Res. Lett.*"
 
-# Abstract and optional shortened version.
+# Abstract.
 abstract = """
 By using an on-site collapse event as a reference and eliminating path effects
 of seismic-wave propagation, we constrain source characteristics of
@@ -45,10 +44,19 @@ a nuclear test may serve an indication of possible collapsing direction
 for the test. Because the surface‐wave magnitude is strongly contaminated
 by secondary sources, we estimate the yield of the 2017 test to be 109.4±48.6kt
 based on the body‐wave Lg magnitude."""
-abstract_short = ""
+
+# Summary. An optional shortened abstract.
+summary = ""
+
+# Digital Object Identifier (DOI)
+doi = "10.1785/0220180134"
 
 # Is this a featured publication? (true/false)
 featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -57,10 +65,6 @@ featured = false
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["north-korea-nuclear-tests"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
 
 # Links (optional).
 url_pdf = ""
@@ -76,9 +80,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 url_custom = [{name = "Citations: 2", url = "https://scholar.google.com/scholar?cites=5239408278507798702"}]
-
-# Digital Object Identifier (DOI)
-doi = "10.1785/0220180134"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

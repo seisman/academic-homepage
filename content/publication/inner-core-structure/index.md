@@ -1,7 +1,6 @@
 +++
 title = "Seismic structure and dynamic process of the Earth's inner core and its boundary"
 date = 2018-03-05T00:00:00
-draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lianxing Wen", "**Dongdong Tian**", "Jiayuan Yao"]
@@ -21,7 +20,7 @@ publication_types = ["2"]
 publication = "*Chinese Journal of Geophysics (in Chinese)*"
 publication_short = ""
 
-# Abstract and optional shortened version.
+# Abstract.
 abstract = """
 Modern seismology has revealed complex structures of the Earth's inner core and its boundary.
 The interior of the Earth’s inner core exhibits both velocity and attenuation anisotropy,
@@ -50,10 +49,19 @@ different and may even be in opposite signs. Such alternative solidification and
 also occur in the localized topographic regions. Moreover, the solidification in the region of
 a mushy zone would release both thermal and chemical energy, while that in other regions of
 a sharp inner core boundary only releases thermal energy."""
-abstract_short = ""
+
+# Summary. An optional shortened abstract.
+summary = ""
+
+# Digital Object Identifier (DOI)
+doi = "10.6038/cjg2018L0500"
 
 # Is this a featured publication? (true/false)
 featured = false
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,10 +70,6 @@ featured = false
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = ["inner-core-boundary"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
 
 # Links (optional).
 url_pdf = ""
@@ -81,9 +85,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Digital Object Identifier (DOI)
-doi = "10.6038/cjg2018L0500"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
