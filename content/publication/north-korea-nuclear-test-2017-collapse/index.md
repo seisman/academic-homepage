@@ -86,3 +86,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+## More links
+
+1. [IRIS Highlight](https://www.iris.edu/hq/science_highlights/test_collapse_swarm)
