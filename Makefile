@@ -1,5 +1,5 @@
 build:
-	hugo --minify
+	hugo
 
 deploy: build
 	lftp -c "open ftp://${FTP_USER}:${FTP_PASSWORD}@${FTP_HOST}; mirror -eRv public web; quit;"
