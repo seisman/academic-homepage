@@ -1,15 +1,17 @@
 +++
 title = "Getting started with GMT in 60 minutes"
-date = 2016-09-21T09:00:00  # Schedule page publish date.
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dongdong Tian"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2016-09-21T09:00:00
-time_end = 2016-09-21T10:00:00
+date = 2016-09-21T09:00:00
+date_end = 2016-09-21T10:00:00
 all_day = false
+
+# Schedule page publish date (NOT talk date).
+publishDate = 2016-09-21T09:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Dongdong Tian"]
 
 # Location of event.
 location = "Hubei Earthquake Agency, Wuhan, Hubei"

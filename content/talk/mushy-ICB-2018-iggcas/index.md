@@ -1,15 +1,17 @@
 +++
 title = "Seismological evidence for a localized mushy zone at the Earth's inner core boundary"
-date = 2018-06-19 # Schedule page publish date.
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dongdong Tian"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-06-15T10:15:00
-time_end = 2018-06-15T10:45:00
+date = 2018-06-15T10:15:00
+date_end = 2018-06-15T10:45:00
 all_day = false
+
+# Schedule page publish date (NOT talk date).
+publishDate = 2018-06-19
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Dongdong Tian"]
 
 # Location of event.
 location = "Beijing, China"
@@ -17,7 +19,6 @@ location = "Beijing, China"
 # Name of event and optional event URL.
 event = "Institute of Geology and Geophysics, Chinese Academy of Sciences"
 event_url = ""
-
 
 # Abstract. What's your talk about?
 abstract = ""

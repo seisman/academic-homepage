@@ -1,15 +1,17 @@
 +++
 title = "Fine-scale Structure of the Earth's Inner Core Boundary and Aftershocks of North Korea's 2017 Nuclear Test"
-date = 2018-05-23 # Schedule page publish date.
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dongdong Tian"]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-05-28T09:30:00
-time_end = 2018-05-28T11:30:00
+date = 2018-05-28T09:30:00
+date_end = 2018-05-28T11:30:00
 all_day = false
+
+# Schedule page publish date (NOT talk date).
+publishDate = 2018-05-23
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Dongdong Tian"]
 
 # Location of event.
 location = "Meeting Room 923, Research Building, USTC, Hefei, China"
