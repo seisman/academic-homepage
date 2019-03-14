@@ -98,7 +98,6 @@ I am passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Explosions, Collapse) and numerical simulations of seismic wavefield propagation.
 
-I am a fan of open source and also contribute to geophysics-related softwares, such as
-[GMT](http://gmt.soest.hawaii.edu/),
-[PyGMT](https://www.pygmt.org/),
-and [ObsPy](http://docs.obspy.org/).
+I am a fan of open source and actively contribute to
+[GMT](http://gmt.soest.hawaii.edu/) and
+[PyGMT](https://www.pygmt.org/).
