@@ -80,3 +80,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+## Highlights
+
+This research is highlighted in [Science Foundation in China](http://www.nsfc.gov.cn/csc/20345/20350/2018/article_list_201802en.html). Click [<i class="far fa-file-pdf"></i>](Scientific-Fundation-In-China.pdf) to download the PDF version.

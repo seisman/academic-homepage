@@ -87,6 +87,6 @@ math = true
   focal_point = ""
 +++
 
-## More links
+## Hightlights
 
-1. [IRIS Highlight](https://www.iris.edu/hq/science_highlights/test_collapse_swarm)
+This research is highlighted by [IRIS Science Highlight](https://www.iris.edu/hq/science_highlights/test_collapse_swarm).
