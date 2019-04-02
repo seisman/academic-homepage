@@ -12,8 +12,8 @@ title = "Dongdong Tian"
 baseurl = "https://msu.edu/~tiandong/"
 
 # Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2012 - 2019 Dongdong Tian"
+# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+copyright = "&copy; 2012 - {year} Dongdong Tian"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
