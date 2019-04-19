@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Citations: 4", url = "https://scholar.google.com/scholar?cites=1247273029144835814"}]
+links = [{name = "Citations: 5", url = "https://scholar.google.com/scholar?cites=1247273029144835814"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
