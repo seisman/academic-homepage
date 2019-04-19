@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Seismological Research Letters*"
-publication_short = "*Seismol. Res. Lett.*"
+publication_short = ""
 
 # Abstract.
 abstract = """

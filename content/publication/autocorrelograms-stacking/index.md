@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Geophysical Journal International*"
-publication_short = "*Geophys. J. Int.*"
+publication_short = ""
 
 # Abstract.
 abstract = """

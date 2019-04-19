@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "*Nature Communications*"
-publication_short = "*Nat. Commun.*"
+publication_short = ""
 
 # Abstract.
 abstract = """Although existence of a mushy zone in the Earth's inner core has been hypothesized several decades ago,
