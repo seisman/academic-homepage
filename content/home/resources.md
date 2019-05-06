@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Resources"
-subtitle = "Softwares & </br> Documentations & </br> Websites"
+subtitle = "Softwares & </br> Documentations & </br> Websites & </br> Links"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -60,3 +60,11 @@ subtitle = "Softwares & </br> Documentations & </br> Websites"
 
 <i class="fas fa-globe"></i> [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
 <i class="fas fa-globe"></i> [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
+
+## Links
+
+<i class="far fa-newspaper"></i> [Journals](https://link.seisman.info/journals) </br>
+<i class="fas fa-users"></i> [Geoscientists](https://link.seisman.info/people) </br>
+<i class="fas fa-code"></i> [Seismological Softwares](https://link.seisman.info/softwares) </br>
+<i class="fas fa-tools"></i> [Useful tools](https://link.seisman.info/tools/) </br>
+<i class="fas fa-link"></i> [Miscellaneous links](https://link.seisman.info/misc)
