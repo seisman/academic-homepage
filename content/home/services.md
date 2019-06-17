@@ -53,5 +53,6 @@ subtitle = ""
 - **2017 – present:** Peer-reviewer of scientific journals
     - Geophysical Research Letters (1)
     - Seismological Research Letters (2)
+    - Review of Scientific Instruments (1)
 - **2018 – present:** Core developer of the [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools/gmt) and [PyGMT](https://github.com/GenericMappingTools/pygmt)
 - **2018:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
