@@ -100,5 +100,5 @@ of the Earth's deep interior, characteristics of seismic sources
 (e.g. Microseismic, Explosions, Collapse) and numerical simulations of seismic wavefield propagation.
 
 I am a fan of open source and actively contribute to
-[GMT](http://gmt.soest.hawaii.edu/) and
+[the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and
 [PyGMT](https://www.pygmt.org/).
