@@ -19,6 +19,19 @@ categories = []
   focal_point = ""
 +++
 
+-   **Jul. 29 - Aug. 2, 2019**:
+    Dongdong particated the GMT Developer's Summit at Scripps Institution of
+    Oceanography, La Jolla, USA.
+
+-   **Jul. 22-23, 2019**:
+    Dongdong served as an instructor for the the 2019 UNAVCO Short Course
+    “The Generic Mapping Tools for Geodesy”, at Scripps Institution of Oceanography,
+    La Jolla, USA.
+
+-   **Dec. 18, 2019**:
+    Dongdong joined the core developer team of the Generic Mapping Tools (GMT).
+
+
 -   **Oct. 1, 2018**:
     Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**,
     the highest award for graduate students of Chinese Academy of Sciences.

@@ -56,3 +56,5 @@ subtitle = ""
     - Review of Scientific Instruments (1)
 - **2018 – present:** Core developer of the [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools/gmt) and [PyGMT](https://github.com/GenericMappingTools/pygmt)
 - **2018:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
+- **2019:** Instructor for the 2019 UNAVCO Short Course
+    [The Generic Mapping Tools for Geodesy](https://www.unavco.org/education/professional-development/short-courses/2019/geodetic-gmt/geodetic-gmt.html)

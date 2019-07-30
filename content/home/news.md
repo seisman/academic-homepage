@@ -47,21 +47,18 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
  css_class = ""
 +++
 
+-   **Jul. 29 - Aug. 2, 2019**
+    Dongdong particated the GMT Developer's Summit at Scripps Institution of
+    Oceanography, La Jolla, USA.
+
+-   **Jul. 22-23, 2019**
+    Dongdong served as an instructor for the the 2019 UNAVCO Short Course
+    “The Generic Mapping Tools for Geodesy”, at Scripps Institution of Oceanography,
+    La Jolla, USA.
+
+-   **Dec. 18, 2019**
+    Dongdong joined the core developer team of the Generic Mapping Tools (GMT).
+
 -   **Oct. 1, 2018**:
-    Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**,
+    Dongdong is awarded **President Award, Chinese Academy of Sciences**,
     the highest award for graduate students of Chinese Academy of Sciences.
-
--   **Sep. 12, 2018**:
-    Our two papers about the seismic characteristics of North Korea's September 2017
-    nuclear test and its triggered aftershock sequences are published online
-    by Seismological Research Letters.
-
--   **Aug. 1, 2018**:
-    Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
-    Earth and Environmental Sciences, Michigan State University.
-
--   **June 21, 2018**:
-    Dongdong Tian has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
-
--   **May 28, 2018**:
-    Dongdong Tian has sucessfully defended his Ph.D. thesis.
