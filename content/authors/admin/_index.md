@@ -91,8 +91,9 @@ user_groups = []
 I am currently a Postdoctoral Research Associate in Geophysics at
 [Michigan State University](https://msu.edu/),
 collaboration with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
-I received my Ph.D. degree from University of Science and Technology of China in 2018
-advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
+I received my Ph.D. degree
+from [University of Science and Technology of China](http://en.ustc.edu.cn/)
+in 2018 advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
 
 I am passionate about contributing to a further understanding of structure
 of the Earth's deep interior, characteristics of seismic sources
