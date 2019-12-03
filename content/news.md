@@ -28,9 +28,8 @@ categories = []
     “The Generic Mapping Tools for Geodesy”, at Scripps Institution of Oceanography,
     La Jolla, USA.
 
--   **Dec. 18, 2019**:
+-   **Dec. 18, 2018**:
     Dongdong joined the core developer team of the Generic Mapping Tools (GMT).
-
 
 -   **Oct. 1, 2018**:
     Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**,
