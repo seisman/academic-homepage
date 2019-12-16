@@ -31,6 +31,9 @@ subtitle = ""
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   # text_color_light = true
@@ -48,13 +51,16 @@ subtitle = ""
 +++
 
 - **2012 – present:** Member of the [American Geophysical Union (AGU)](https://sites.agu.org/)
+- **2013 - present:** Author of the [SeisMan](https://blog.seisman.info) blog (pupoular in Chinese young seismologists)
 - **2016 – 2018:** Research assistant and database manager for [China Seismological Reference Model](http://chinageorefmodel.org/)
 - **2016 – present:** Founder and primary contributor of [GMT China Community](http://gmt-china.org/)
 - **2017 – present:** Peer-reviewer of scientific journals
     - Geophysical Research Letters (1)
     - Seismological Research Letters (2)
     - Review of Scientific Instruments (1)
+    - Journal of Open Source Software (2)
 - **2018 – present:** Core developer of the [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools/gmt) and [PyGMT](https://github.com/GenericMappingTools/pygmt)
-- **2018:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
+- **2018 - 2019:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
 - **2019:** Instructor for the 2019 UNAVCO Short Course
     [The Generic Mapping Tools for Geodesy](https://www.unavco.org/education/professional-development/short-courses/2019/geodetic-gmt/geodetic-gmt.html)
+- **2019:** Instructor for the Workshop SCIWS4: [Become a Generic Mapping Tools Contributor Even If You Can't Code](https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools), 2019 AGU Fall Meeting

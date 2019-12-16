@@ -1,23 +1,17 @@
-+++
-title = "List of News"
-date = 2018-01-08T00:00:00
-lastmod = 2018-08-01T00:00:00
+---
+title: "Recent News"
+date: 2018-01-08T00:00:00
+lastmod: 2018-08-01T00:00:00
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+---
 
 -   **Jul. 29 - Aug. 2, 2019**:
     Dongdong particated the GMT Developer's Summit at Scripps Institution of

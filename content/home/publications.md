@@ -9,7 +9,7 @@ weight = 20  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = '''
-<sup>&#35;</sup> co-first author \\
+<sup>&#35;</sup> co-first author \
 <sup>&#42;</sup> corresponding author
 '''
 

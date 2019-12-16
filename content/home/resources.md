@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Resources"
-subtitle = "Softwares & </br> Documentations & </br> Websites & </br> Links"
+subtitle = "Softwares & </br> Documentations & </br> Websites"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -31,6 +31,9 @@ subtitle = "Softwares & </br> Documentations & </br> Websites & </br> Links"
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   # text_color_light = true
@@ -60,11 +63,4 @@ subtitle = "Softwares & </br> Documentations & </br> Websites & </br> Links"
 
 <i class="fas fa-globe"></i> [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
 <i class="fas fa-globe"></i> [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
-
-## Links
-
-<i class="far fa-newspaper"></i> [Journals](https://link.seisman.info/journals) </br>
-<i class="fas fa-users"></i> [Geoscientists](https://link.seisman.info/people) </br>
-<i class="fas fa-code"></i> [Seismological Softwares](https://link.seisman.info/softwares) </br>
-<i class="fas fa-tools"></i> [Useful tools](https://link.seisman.info/tools/) </br>
-<i class="fas fa-link"></i> [Miscellaneous links](https://link.seisman.info/misc)
+<i class="fas fa-link"></i> [SeisMan's Links](https://link.seisman.info/): Collection of useful links
