@@ -43,6 +43,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: 'http://orcid.org/0000-0001-7967-1197'
+- icon: researcherid
+  icon_pack: ai
+  link: 'https://publons.com/researcher/AAB-3470-2020'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=VITag6sAAAAJ
