@@ -1,14 +1,26 @@
-# Academic Homepage at MSU
+# Dongdong Tian's Academic Homepage
 
-[![Build Status](https://travis-ci.org/seisman/academic-homepage.svg?branch=master)](https://travis-ci.org/seisman/academic-homepage)
+This is the source code for my academic site.
 
-Powered by [Academic theme](https://github.com/gcushen/hugo-academic) for [Hugo](https://gohugo.io/).
+- Website: https://me.seisman.info
+- Theme from [Wowchemy theme](https://wowchemy.com/)
+- Build by [Hugo](https://gohugo.io/)
 
-website: https://msu.edu/~tiandong
+### Build the site locally
 
-~~~
-$ git clone https://github.com/seisman/academic-homepage
-$ cd academic-homepage
-$ git submodule update --init --remote
-$ hugo server
-~~~
+```
+git clone https://github.com/seisman/academic-homepage
+d academic-homepage
+hugo server
+```
+
+### Upgrade the theme
+
+```
+bash update_wowchemy.sh
+```
+
+### License
+
+Except where otherwise noted, all content is licensed under a
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

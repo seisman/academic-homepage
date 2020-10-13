@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Dongdong Tian
+title: "Dongdong Tian"
+native_name: "田冬冬"  # parameter for customized templates
 
 # Username (this should match the folder name)
 authors:
@@ -14,17 +15,16 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Michigan State University
-  url: "https://msu.edu/"
+- name: "Michigan State University"
+  url: https://msu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a seismologist.
+bio: I'm a seismologist with broad interests in structure of Earth's deep interior and mechanims of small seismic events.
 
 interests:
-- Structure of the Earth's Deep Interior
-- Mechanisms of Small Seismic Events (Microseism, Explosions, Collapse)
-- Numerical Simulation of Wave Propagation in Complex Media
-- Seismic Interferometry
+- Structure of the Earth's deep interior
+- Mechanisms of seismic events
+- Seismic wave progration in complex media
 
 education:
   courses:
@@ -42,16 +42,13 @@ education:
 social:
 - icon: orcid
   icon_pack: ai
-  link: 'http://orcid.org/0000-0001-7967-1197'
-- icon: researcherid
-  icon_pack: ai
-  link: 'https://publons.com/researcher/AAB-3470-2020'
+  link: http://orcid.org/0000-0001-7967-1197
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=VITag6sAAAAJ
-- icon: researchgate
+- icon: publons
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Dongdong_Tian
+  link: https://publons.com/researcher/AAB-3470-2020
 - icon: github
   icon_pack: fab
   link: https://github.com/seisman
@@ -70,6 +67,9 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
@@ -77,17 +77,19 @@ email: ""
 # - Visitors
 ---
 
-I am currently a Postdoctoral Research Associate in Geophysics at
+Dongdong Tian is a seismologist. His research is directed toward understanding
+the structure of the Earth's deep interior,
+mechanisms of seismic sources (e.g., microseismic, explosions, and collapse),
+and seismic wave propagation in complex media.
+
+He received his Ph.D. degree in Geophysics from
+[University of Science and Technology of China](http://en.ustc.edu.cn/) in 2018,
+advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
+Currently, he is a Postdoctoral Research Associate at
 [Michigan State University](https://msu.edu/),
-collaboration with Prof. [Songqiao Shawn Wei](https://msu.edu/~swei/).
-I received my Ph.D. degree
-from [University of Science and Technology of China](http://en.ustc.edu.cn/)
-in 2018 advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
+collaborating with Prof. [Songqiao Shawn Wei](https://sites.google.com/a/msu.edu/swei/).
 
-I am passionate about contributing to a further understanding of structure
-of the Earth's deep interior, characteristics of seismic sources
-(e.g. Microseismic, Explosions, Collapse) and numerical simulations of seismic wavefield propagation.
-
-I am a fan of open source and serve as a core developer of
-[the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and
-[PyGMT](https://www.pygmt.org/).
+He is also a big fan of open source and serves as a core developer of the
+{{< icon name="terminal" pack="fas" >}} [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/),
+a widely-used software for processing and visualizing geophysical data in Earth Science,
+and its Python wrapper, {{< icon name="python" pack="fab" >}}[PyGMT](https://www.pygmt.org/).

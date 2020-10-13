@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = '''
@@ -31,6 +31,7 @@ subtitle = '''
     tag = ""
     category = ""
     publication_type = ""
+    author = ""
     exclude_featured = false
 
 [design]
@@ -39,7 +40,7 @@ subtitle = '''
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -55,15 +56,11 @@ subtitle = '''
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  #padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS.
@@ -73,3 +70,6 @@ subtitle = '''
  css_class = ""
 +++
 
+{{% callout note %}}
+Quickly discover relevant content by [filtering publications](./publication/).
+{{% /callout %}}

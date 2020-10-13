@@ -43,12 +43,12 @@ slides: ""
 
 North Korea has conducted six nuclear tests since 2006.
 
-![](NKNT.jpg)
+{{< figure src="NKNT.jpg" alt="Geographic locations of six North Korea's nuclear tests" title="Geographic locations of six North Korea's nuclear tests." >}}
 
 ### Event information of six NKNTs
 
 Event information of the six nuclear test are summarized by
-[Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017/index.md" >}}).
+[Yao et al., 2018, SRL]({{< ref "/publication/2018_north-korea-nuclear-test-2017/index.md" >}}).
 
 **Table 1. Summary of event information of North Koare's six nuclear tests**
 
@@ -61,31 +61,32 @@ No.| Date       | Time         | Latitude | Longitude | Depth (m) | Yield (kt)
 5  | 2016-09-09	| 00:30:01.353 | 41.3001	| 129.0776  | 790       | 18.0±5.9
 6  | 2017-09-03	| 03:30:01.655 | 41.3018	| 129.0738  | 770       | 109.4±48.6
 
-The event information of six nuclear tests are also available in plain text
-({{% staticref "project/north-korea-nuclear-tests/NKNT.dat" %}} NKNT.dat {{% /staticref %}})
-and Google Earth KML format ({{% staticref "project/north-korea-nuclear-tests/NKNT.kml" %}} NKNT.kml {{% /staticref %}}).
+The event information of six nuclear tests are also available in various formats:
+
+- plain text: [NKNT.dat](NKNT.dat)
+- Google Earth KML: [NKNT.kml](NKNT.kml)
 
 ### North Korea's September 3 2017 Nuclear Test
 
 #### Main Shock
 
 On 3 September 2017, North Korea conducted sixth nuclear test, which is the
-largest.
+largest one since 2006.
 
 For details of the source characteristic of the 2017 test,
-see [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017/index.md" >}}).
+see [Yao et al., 2018, SRL]({{< ref "/publication/2018_north-korea-nuclear-test-2017/index.md" >}}).
 
 #### Collapse event 8.5 minutes after the 2017 test
 
 The 2017 test had resulted in an on-site collapse of the Mt. Mantap.
 
 For details of the collapse event after the 2017 test,
-see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}}).
+see [Tian et al., 2018, GRL]({{< ref "/publication/2018_north-korea-nuclear-test-2017-collapse/index.md" >}}).
 
 #### Seismicty Triggered by the 2017 test
 
 The 2017 test triggered an earthquake swarm 8.4 km north of the nuclear test site.
 
 For details of the earthquake swarm after the 2017 test,
-see [Tian et al., 2018, GRL]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}})
-and [Yao et al., 2018, SRL]({{< ref "/publication/north-korea-nuclear-test-2017-aftershocks/index.md" >}}).
+see [Tian et al., 2018, GRL]({{< ref "/publication/2018_north-korea-nuclear-test-2017-collapse/index.md" >}})
+and [Yao et al., 2018, SRL]({{< ref "/publication/2018_north-korea-nuclear-test-2017-aftershocks/index.md" >}}).

@@ -1,8 +1,11 @@
+#
+# Makefile for websites powered by Hugo
+#
 build:
-	hugo
+	hugo --minify
 
-deploy: build
-	lftp -c "open ftp://${FTP_USER}:${FTP_PASSWORD}@${FTP_HOST}; mirror -eRv public web; quit;"
+serve:
+	hugo server --disableFastRender
 
 clean:
-	-rm -r public/ resources/
+	-rm -rf public resources

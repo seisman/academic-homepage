@@ -1,15 +1,15 @@
 +++
 # A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Resources"
-subtitle = "Softwares & </br> Documentations & </br> Websites"
+subtitle = "Software & </br> Manuals & </br> Websites"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ subtitle = "Softwares & </br> Documentations & </br> Websites"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  #padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS.
@@ -50,17 +50,17 @@ subtitle = "Softwares & </br> Documentations & </br> Websites"
  css_class = ""
 +++
 
-## Softwares
+### Software
 
-<i class="fab fa-python"></i> [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/) </br>
+{{< icon name="python" pack="fab" >}} [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/)
 
-## Documentations
+### Manuals
 
-<i class="fas fa-book"></i> [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (*in Chinese*) </br>
-<i class="fas fa-book"></i> [GMT Reference Manual](https://docs.gmt-china.org/) (*in Chinese*) </br>
+{{< icon name="book" pack="fas" >}} [SAC Reference Manual](https://seisman.github.io/SAC_Docs_zh/) (*in Chinese*) </br>
+{{< icon name="book" pack="fas" >}} [GMT Reference Manual](https://docs.gmt-china.org/) (*in Chinese*) </br>
 
-## Websites
+### Websites
 
-<i class="fas fa-globe"></i> [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
-<i class="fas fa-globe"></i> [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
-<i class="fas fa-link"></i> [SeisMan's Links](https://link.seisman.info/): Collection of useful links
+{{< icon name="globe" pack="fas" >}} [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
+{{< icon name="globe" pack="fas" >}} [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
+{{< icon name="link" pack="fas" >}} [SeisLinks](https://link.seisman.info/): Collection of useful links
