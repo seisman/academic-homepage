@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="4">
+            <IconStyle id="5">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="6">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="9">
+            <IconStyle id="10">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="11">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="14">
+            <IconStyle id="15">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="16">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="19">
+            <IconStyle id="20">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="21">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="24">
+            <IconStyle id="25">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="26">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="29">
+            <IconStyle id="30">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="31">
+                    <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="3">
+            <name>2006-10-09</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2006-10-09T01:35:27.998&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: - m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 0.48* kt&lt;/p&gt;</description>
+            <styleUrl>#4</styleUrl>
+            <Point id="2">
+                <coordinates>129.1083,41.2879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="8">
+            <name>2009-05-25</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2009-05-25T00:54:43.167&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: 690 m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 7.7±2.0 kt&lt;/p&gt;</description>
+            <styleUrl>#9</styleUrl>
+            <Point id="7">
+                <coordinates>129.0811,41.2955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>2013-02-12</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2013-02-12T02:57:51.322&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: 490 m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 13.5±4.1 kt&lt;/p&gt;</description>
+            <styleUrl>#14</styleUrl>
+            <Point id="12">
+                <coordinates>129.0760,41.2926,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="18">
+            <name>2016-01-06</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2016-01-06T01:30:01.038&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: 700 m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 11.4±4.4 kt&lt;/p&gt;</description>
+            <styleUrl>#19</styleUrl>
+            <Point id="17">
+                <coordinates>129.0715,41.2993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>2016-09-09</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2016-09-09T00:30:01.353&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: 790 m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 18.0±5.9 kt&lt;/p&gt;</description>
+            <styleUrl>#24</styleUrl>
+            <Point id="22">
+                <coordinates>129.0776,41.3001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="28">
+            <name>2017-09-03</name>
+            <description>&lt;p&gt;&lt;b&gt;Time&lt;/b&gt;: 2017-09-03T03:30:01.655&lt;/p&gt;&lt;p&gt;&lt;b&gt;Burial Depth&lt;/b&gt;: 770 m&lt;/p&gt;&lt;p&gt;&lt;b&gt;Yield&lt;/b&gt;: 109.4±48.6 kt&lt;/p&gt;</description>
+            <styleUrl>#29</styleUrl>
+            <Point id="27">
+                <coordinates>129.0738,41.3018,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
