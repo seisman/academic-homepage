@@ -89,6 +89,6 @@ projects:
 slides: ""
 ---
 
-## Hightlights
+### Hightlights
 
 This research is highlighted by [IRIS Science Highlight](https://www.iris.edu/hq/science_highlights/test_collapse_swarm).
