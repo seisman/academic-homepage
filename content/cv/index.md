@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}} Download my full CV here](/Dongdong_Tian_CV.pdf).
+[{{< icon name="file-pdf" pack="fas" >}} Download my full CV here](/files/Dongdong_Tian_CV.pdf).
 
 ---
 
