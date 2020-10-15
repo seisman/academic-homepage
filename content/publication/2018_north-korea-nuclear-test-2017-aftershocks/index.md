@@ -93,3 +93,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+### Highlights
+
+[This paper is featured](SRL_vol89_no6_cover.jpg)
+on the cover of *Seismological Research Letter* Volume 89, Number 6.
