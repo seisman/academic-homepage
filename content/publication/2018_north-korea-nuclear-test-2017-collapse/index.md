@@ -3,7 +3,7 @@
 
 title: "Collapse and earthquake swarm after North Korea's 3 September 2017 nuclear test"
 authors:
-- Dongdong Tian
+- admin
 - Jiayuan Yao
 - Lianxing Wen
 date: 2018-04-27T00:00:00

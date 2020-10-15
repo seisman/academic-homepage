@@ -23,8 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2016-06-30T09:00:00
 
-authors:
-- Dongdong Tian
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

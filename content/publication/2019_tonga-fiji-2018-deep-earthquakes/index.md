@@ -5,7 +5,7 @@ title: "Complex and diverse rupture processes of the 2018 Mw 8.2 and Mw 7.9 Tong
 authors:
 - Wenyuan Fan
 - S. Shawn Wei
-- Dongdong Tian
+- admin
 - Jeffrey J. McGuire
 - Douglas A. Wiens
 date: 2019-02-20T00:00:00

@@ -4,7 +4,7 @@
 title: "Microseismic sources during Hurricane Sandy"
 authors:
 - Xiaohan Chen
-- Dongdong Tian
+- admin
 - Lianxing Wen
 date: 2015-09-21T00:00:00
 doi: "10.1002/2015JB012282"

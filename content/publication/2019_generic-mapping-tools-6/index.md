@@ -9,7 +9,7 @@ authors:
 - Remko Scharroo
 - Florian Wobbe
 - Walter H. F. Smith
-- Dongdong Tian
+- admin
 date: 2019-11-01T00:00:00
 doi: 10.1029/2019GC008515
 

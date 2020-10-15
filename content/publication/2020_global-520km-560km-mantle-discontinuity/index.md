@@ -3,7 +3,7 @@
 
 title: "Global variations of Earth's 520- and 560-km discontinuities"
 authors:
-- Dongdong Tian
+- admin
 - Mingda Lv
 - S. Shawn Wei
 - Susannah M. Dorfman

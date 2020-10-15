@@ -4,7 +4,7 @@
 title: "Source characteristics of North Korea's 3 September 2017 nuclear test"
 authors:
 - Jiayuan Yao
-- Dongdong Tian
+- admin
 - Li Sun
 - Lianxing Wen
 date: 2018-09-12T00:00:00

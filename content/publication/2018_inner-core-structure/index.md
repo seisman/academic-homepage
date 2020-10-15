@@ -4,7 +4,7 @@
 title: "Seismic structure and dynamic process of the Earth's inner core and its boundary"
 authors:
 - Lianxing Wen
-- Dongdong Tian
+- admin
 - Jiayuan Yao
 date: 2018-03-05T00:00:00
 doi: "10.6038/cjg2018L0500"

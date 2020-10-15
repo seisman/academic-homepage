@@ -4,7 +4,7 @@
 title: "Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?"
 authors:
 - Jiayuan Yao
-- Dongdong Tian
+- admin
 - Li Sun
 - Lianxing Wen
 date: 2019-05-29T00:00:00

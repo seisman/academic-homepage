@@ -4,7 +4,7 @@
 title: "A new method for earthquake depth determination: stacking multiple-station autocorrelograms"
 authors:
 - Miao Zhang
-- Dongdong Tian
+- admin
 - Lianxing Wen
 date: 2014-02-26T00:00:00
 doi: 10.1093/gji/ggu044

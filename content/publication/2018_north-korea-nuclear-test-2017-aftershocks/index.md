@@ -4,7 +4,7 @@
 title: "Triggered seismicity after North Korea's 3 September 2017 nuclear test"
 authors:
 - Jiayuan Yao
-- Dongdong Tian
+- admin
 - Zhou Lu
 - Li Sun
 - Lianxing Wen

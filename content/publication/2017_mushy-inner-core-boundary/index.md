@@ -3,7 +3,7 @@
 
 title: "Seismological evidence for a localized mushy zone at the Earth’s inner core boundary"
 authors:
-- Dongdong Tian
+- admin
 - Lianxing Wen
 date: 2017-08-01T00:00:00
 doi: "10.1038/s41467-017-00229-9"
