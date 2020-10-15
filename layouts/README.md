@@ -12,3 +12,5 @@ The templates may break someday due to the changes of upstream template.
   - Show icons for links
   - Add links to google scholar
   - Add links to Altmetric
+- `partials/custom_js.html`: Custom javascript HTML codes
+- `publication/single.html`: Show publication metrics (Altmetric, Dimensions, & PlumX)

@@ -46,17 +46,21 @@
     <div class="d-md-none space-below"></div>
     {{ end }}
 
-	<h3>Publication metrics</h3>
+    <div class="space-below"></div>
+
+    <!-- Show pulicaiton metrics -->
+    <h3>Publication metrics</h3>
     {{ with .Params.doi }}
     <div class="row">
       <div class="col-md-1">
-        <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-        <span class="altmetric-embed" data-badge-popover="bottom" data-badge-type="donut" data-doi="{{ . }}"></span>
-	  </div>
+        <span class="altmetric-embed" data-badge-type="donut" data-badge-popover="right" data-doi="{{ . }}"></span>
+      </div>
       <div class="col-md-1 px-md-5">
-        <span class="__dimensions_badge_embed__" data-style="small_circle" data-doi="{{ . }}"></span>
-        <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-	  </div>
+        <span class="__dimensions_badge_embed__" data-style="small_circle" data-legend="hover-right" data-doi="{{ . }}"></span>
+      </div>
+      <div class="col-md-1 px-md-5">
+        <span href="https://plu.mx/plum/a/?doi={{ . }}" class="plumx-plum-print-popup" data-popup="right" data-size="medium"></span>
+      </div>
     </div>
     {{ end }}
 

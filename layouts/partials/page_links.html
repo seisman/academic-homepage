@@ -62,7 +62,7 @@
 {{ range $page.Params.projects }}
   {{ with (site.GetPage (printf "project/%s" .)) }}
   <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ .RelPermalink }}">
-	<i class="fas fa-link mr-1"></i>{{ i18n "btn_project" }}
+    <i class="fas fa-link mr-1"></i>{{ i18n "btn_project" }}
   </a>
   {{ else }}
     {{/* errorf "The `projects` parameter in `content/%s` references a project file, `content/project/%s`, which cannot be found. Please either set `projects = []` or fix the reference." $page.File.Path . */}}
@@ -133,6 +133,9 @@
 </a>
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://www.altmetric.com/details/doi/{{ . }}" target="_blank" rel="noopener">
   <i class="far fa-dot-circle mr-1"></i>Altmetric
+</a>
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://plu.mx/plum/a/?doi={{ . }}" target="_blank" rel="noopener">
+  <i class="fas fa-asterisk mr-1"></i>PlumX
 </a>
 {{ end }}
 {{ with $page.Params.url_google_scholar }}
