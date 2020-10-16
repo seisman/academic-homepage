@@ -1,6 +1,7 @@
 # Dongdong Tian's Academic Homepage
 
 ![Building](https://github.com/seisman/academic-homepage/workflows/Building/badge.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/seisman/academic-homepage)
 
 This is the source code for my academic site.
 
