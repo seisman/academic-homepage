@@ -50,21 +50,22 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
  css_class = ""
 +++
 
-- **Oct. 2, 2020** Our new global survey of the 520- and 560-km mantle discontinuities,
+- **2020-10-02**:
+  Our new global survey of the 520- and 560-km mantle discontinuities,
   based on seismic observations (SS precursors) and thermodynamic modeling,
-  is published on [*Earth and Planetary Science Letters*](https://doi.org/10.1016/j.epsl.2020.116600).
+  is published on [**Earth and Planetary Science Letters**](https://doi.org/10.1016/j.epsl.2020.116600).
 
-- **Jun. 20–21, 2020**
-  Dongdong served as an instructor of
+- **2020-06-20**:
+  Dongdong serves as an instructor of
   [the 2020 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/education/professional-development/short-courses/2020/geodetic-gmt/geodetic-gmt.html),
-  online via Zoom
+  online via Zoom.
 
-- **Jul. 29–Aug. 2, 2019**
-  Dongdong particated the GMT Developer's Summit at Scripps Institution of
-  Oceanography, La Jolla, USA.
+- **2019-07-29**:
+  Dongdong particats the GMT Developer's Summit at Scripps Institution of
+  Oceanography, La Jolla, USA, Jul. 29–Aug. 2, 2019.
 
-- **Jul. 22–23, 2019**
-  Dongdong served as an instructor of
+- **2019-07-22**:
+  Dongdong serves as an instructor of
   [the 2019 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/education/professional-development/short-courses/2019/geodetic-gmt/geodetic-gmt.html),
   at Scripps Institution of Oceanography,
-  La Jolla, USA.
+  La Jolla, USA, Jul. 22–23, 2019.
