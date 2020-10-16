@@ -89,7 +89,7 @@ Currently, he is a Postdoctoral Research Associate at
 [Michigan State University](https://msu.edu/),
 collaborating with Prof. [Songqiao Shawn Wei](https://sites.google.com/a/msu.edu/swei/).
 
-He is also a big fan of open source and serves as a core developer of the
+He is also a big fan of open-source and serves as a core developer of the
 {{< icon name="terminal" pack="fas" >}} [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/),
 a widely-used software for processing and visualizing geophysical data in Earth Science,
 and its Python wrapper, {{< icon name="python" pack="fab" >}}[PyGMT](https://www.pygmt.org/).
