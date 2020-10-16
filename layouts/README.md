@@ -10,7 +10,6 @@ The templates may break someday due to the changes of upstream template.
 - `partials/widgets/about.html`: Show native name in the author profile
 - `partials/page_links.html`:
   - Show icons for links
-  - Add links to google scholar
-  - Add links to Altmetric
-- `partials/custom_js.html`: Custom javascript HTML codes
+  - Add links to google scholar, Altmetric and PlumX
+- `partials/custom_js.html`: Custom javascript HTML codes for metrics
 - `publication/single.html`: Show publication metrics (Altmetric, Dimensions, & PlumX)
