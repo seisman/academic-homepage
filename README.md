@@ -6,14 +6,17 @@
 This is the source code for my academic site.
 
 - Website: https://me.seisman.info
-- Theme from [Wowchemy theme](https://wowchemy.com/)
+- Theme from [wowchemy theme](https://wowchemy.com/)
 - Build by [Hugo](https://gohugo.io/)
 
 ### Build the site locally
 
+To build the site locally, you first need to have [go](https://golang.org/) and
+[hugo](https://gohugo.io/) installed, then
+
 ```
 git clone https://github.com/seisman/academic-homepage
-d academic-homepage
+cd academic-homepage
 hugo server
 ```
 
@@ -21,6 +24,17 @@ hugo server
 
 ```
 bash update_wowchemy.sh
+```
+
+### Changes to the official theme
+
+I've made some changes/customizations to the official wowchemy theme.
+The customized templates are located in the [layouts](/layouts) directory.
+
+Run the following command to view the changes compared to the official theme:
+```
+cd layouts
+bash changes.sh
 ```
 
 ### License
