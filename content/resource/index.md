@@ -16,4 +16,4 @@ subtitle: "Software & Manuals & Websites"
 
 {{< icon name="globe" pack="fas" >}} [SeisMan Blog](https://blog.seisman.info/): My personal academic blog (*in Chinese*) </br>
 {{< icon name="globe" pack="fas" >}} [GMT Chinese Community](https://gmt-china.org/) (*in Chinese*) </br>
-{{< icon name="link" pack="fas" >}} [SeisLinks](https://link.seisman.info/): Collection of useful links
+{{< icon name="link" pack="fas" >}} [SeisLinks](https://link.seisman.info/): Collection of useful sites for geoscience researches
