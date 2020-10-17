@@ -14,3 +14,4 @@ The templates may break someday due to the changes of upstream template.
 - `partials/custom_js.html`: Custom javascript HTML codes for metrics
 - `publication/single.html`: Show publication metrics (Altmetric, Dimensions, & PlumX)
 - `partials/site_footer_license.html`: Add extra notes in the footer
+- `partials/portfolio_li_showcase.html`: Change widths of columns
