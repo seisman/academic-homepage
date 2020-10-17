@@ -2,9 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Mantle Discontinuities
-summary:
+summary: |
+  Seismic discontinuities in the mantle provide critical insight into thermal
+  and compositional states of Earth’s mantle and its dynamics.
 tags:
-- Mantle Discontinuities
+- Earth Structure
 categories: []
 date: 2018-08-16T10:45:14-04:00
 weight: 3

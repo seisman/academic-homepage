@@ -2,9 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: North Korea Nuclear Tests
-summary: "High-precision locations, yields and source characteristics of North Korea's nuclear tests and associated small seismic events."
+summary: |
+  North Korea has conducted six nuclear tests since 2006.
+  Using seismological techniques, we determine their high-precison locations,
+  yields, and source characteristics of the six nuclear tests and
+  associated small seismic events.
 tags:
-- Nuclear Tests
+- Seismic Sources
 categories: []
 date: 2018-04-29T21:03:21+08:00
 weight: 2
