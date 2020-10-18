@@ -87,4 +87,6 @@ math: true
 
 ### Highlights
 
-This research is highlighted in [Science Foundation in China](http://www.nsfc.gov.cn/csc/20345/20350/2018/article_list_201802en.html). Click [<i class="far fa-file-pdf"></i>](Scientific-Fundation-In-China.pdf) to download the PDF version.
+This research is highlighted in
+[Science Foundation in China](http://www.nsfc.gov.cn/csc/20345/20350/2018/article_list_201802en.html).
+Download the [<i class="far fa-file-pdf"></i>](Scientific-Fundation-In-China.pdf) PDF version.

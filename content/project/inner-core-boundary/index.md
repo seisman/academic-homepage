@@ -12,7 +12,7 @@ summary: |
   We use seismic waves reflected from the Earth's ICB to study the spatial and
   temporary changes of ICB.
 tags:
-- Earth Structure
+- Earth Deep Interior
 date: 2017-07-20T00:00:00
 weight: 1
 math: true

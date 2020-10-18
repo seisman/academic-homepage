@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/seisman/academic-homepage", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = false, page = false, post = false, project = true, publication = false, talk = false}
+show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details

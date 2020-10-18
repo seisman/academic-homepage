@@ -4,9 +4,17 @@
 title: Mantle Discontinuities
 summary: |
   Seismic discontinuities in the mantle provide critical insight into thermal
-  and compositional states of Earth’s mantle and its dynamics.
+  and compositional states of Earth's mantle and its dynamics.
+  The 410- and 660-km seismic discontinuities are observed globally, and
+  are generally linked to phase transformations of olivine → wadsleyite and
+  ringwoodite → bridgmanite + ferropericlase. The 520- and 560-km discontinuities
+  are usually less observed and studied, and are caused by phase transformation of
+  wadsleyite → ringwoodite, and exsolution of Ca-pv from garnet. We analyze
+  waveforms of SS precuros recorded by global stations to investigate global
+  variations of the 520- and 560-km discontinuities.
+
 tags:
-- Earth Structure
+- Earth Deep Interior
 categories: []
 date: 2018-08-16T10:45:14-04:00
 weight: 3
@@ -43,4 +51,12 @@ url_video: ""
 slides: ""
 ---
 
-Under construction.
+Seismic discontinuities in the mantle provide critical insight into thermal
+and compositional states of Earth's mantle and its dynamics.
+The 410- and 660-km seismic discontinuities are observed globally, and
+are generally linked to phase transformations of olivine → wadsleyite and
+ringwoodite → bridgmanite + ferropericlase. The 520- and 560-km discontinuities
+are usually less observed and studied, and are caused by phase transformation of
+wadsleyite → ringwoodite, and exsolution of Ca-pv from garnet. We analyze
+waveforms of SS precuros recorded by global stations to investigate global
+variations of the 520- and 560-km discontinuities.
