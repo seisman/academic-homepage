@@ -162,7 +162,7 @@ sharing = true
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
-copyright_license = {enable = true, allow_derivatives = true, share_alike = false, allow_commercial = true, notice = "Except where otherwise noted, all content is licensed under {license}.", extra_notice = "Source codes of the website is available at <i class='fab fa-github'></i> [seisman/academic-homepage](https://github.com/seisman/academic-homepage)."}
+copyright_license = {enable = true, allow_derivatives = true, share_alike = false, allow_commercial = true, notice = "Except where otherwise noted, all content is licensed under {license}.", extra_notice = "Source codes of the website is available at <i class='fab fa-github'></i>&nbsp;[seisman/academic-homepage](https://github.com/seisman/academic-homepage)."}
 
 # Link authors to their profile page? (true/false)
 link_authors = false
