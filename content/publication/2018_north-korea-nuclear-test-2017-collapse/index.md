@@ -37,11 +37,12 @@ abstract: |
 
 # Summary. An optional shortened abstract.
 summary: |
-  1. We present high-precision locations and detailed source information of four small seismic events
-    following North Korea's 2017 nuclear test;
-  2. The first event is an on-site collapse 440 m northwest of the test site and best explained by a near vertical single force;
-  3. The later events are an earthquake swarm located 8.4 km north of the test site with a focal depth of at least 2.4 km.
-
+  1. We present high-precision locations and detailed source information of
+     four small seismic events following North Korea's 2017 nuclear test.
+  2. The first event is an on-site collapse 440 m northwest of the test site
+     and best explained by a near vertical single force.
+  3. The later events are an earthquake swarm located 8.4 km north of the test
+     site with a focal depth of at least 2.4 km.
 
 tags: []
 categories: []
