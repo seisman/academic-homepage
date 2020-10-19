@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Earth's Structure"
-    tag = "Earth Structure"
+    name = "Earth's Deep Interior"
+    tag = "Earth Deep Interior"
 
   [[content.filter_button]]
     name = "Seismic Sources"
