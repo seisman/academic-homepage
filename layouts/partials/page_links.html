@@ -44,7 +44,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_code" }}
+  <i class="fas fa-file-code mr-1"></i>{{ i18n "btn_code" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_dataset }}
@@ -55,7 +55,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_dataset" }}
+  <i class="fas fa-database mr-1"></i>{{ i18n "btn_dataset" }}
 </a>
 {{ end }}
 {{ if $page.Params.projects }}
