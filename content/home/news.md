@@ -51,10 +51,10 @@ subtitle = '[SEE MORE NEWS <i class="fa fa-angle-double-right"></i>](/news/)'
 +++
 
 - **2020-10-22**:
-  Dongdong, collaborating with [Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/), Li Sun, and [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/),
+  Dongdong, collaborating with [Dr. Jiayuan Yao](https://www.ntu.edu.sg/home/jiayuanyao/), Dr. Li Sun, and [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/),
   make a comment on the paper "Origin of temporal changes of inner-core seismic waves" by Yang and Song (2020).
   The comment is published on [**Earth and Planetary Science Letters**](https://doi.org/10.1016/j.epsl.2020.116640).
-  Jiayuan Yao is the first author.
+  Dr. Jiayuan Yao is the first author.
 
 - **2020-10-02**:
   Our new global survey of the 520- and 560-km mantle discontinuities,
