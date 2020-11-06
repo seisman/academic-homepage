@@ -32,7 +32,8 @@ title: Curriculum Vitae
                     *Geophysical Research Letters* (1),
                     *Seismological Research Letters* (2),
                     *Review of Scientific Instruments* (1),
-                    *Journal of Open Source Software* (2)
+                    *Journal of Open Source Software* (2),
+                    *Results of Geophysical Sciences* (1)
 - **2018–present:** Core developer of the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and [PyGMT](https://www.pygmt.org/)
 - **2018–2019:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
 - **2019–2020:** Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy"
