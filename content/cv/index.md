@@ -36,7 +36,7 @@ title: Curriculum Vitae
                     *Results of Geophysical Sciences*
 - **2018–present:** Core developer of the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/) and [PyGMT](https://www.pygmt.org/)
 - **2018–2019:** Judge for the Outstanding Student Paper Award, AGU Fall Meeting
-- **2019–2020:** Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy"
+- **2019–2021:** Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy"
 - **2019:** Instructor for the Workshop SCIWS4: [Become a Generic Mapping Tools Contributor Even If You Can't Code](https://www.agu.org/Events/SCIWS4-Generic-Mapping-Tools), 2019 AGU Fall Meeting
 
 ---
