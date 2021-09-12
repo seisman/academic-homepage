@@ -17,7 +17,7 @@ title: Curriculum Vitae
 
 ### Employment
 
-- **2018/08–present**: Postdoctoral Research Associate,
+- **2018/08–2021/09**: Postdoctoral Research Associate,
 					   [Michigan State University](https://msu.edu/), East Lansing, US
 
 ---
