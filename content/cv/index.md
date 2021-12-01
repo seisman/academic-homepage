@@ -17,6 +17,8 @@ title: Curriculum Vitae
 
 ### Employment
 
+- **2021/11–present**: Associate Professor,
+					   [China University of Geosciences](https://en.cug.edu.cn), Wuhan, China
 - **2018/08–2021/09**: Postdoctoral Research Associate,
 					   [Michigan State University](https://msu.edu/), East Lansing, US
 

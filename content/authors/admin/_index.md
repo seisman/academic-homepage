@@ -1,31 +1,28 @@
 ---
 # Display name
 title: "Dongdong Tian"
-native_name: "田冬冬"  # parameter for customized templates
-
-# Username (this should match the folder name)
-authors:
-- admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: "Michigan State University"
-  url: https://msu.edu/
+- name: "China University of Geosciences"
+  url: https://en.cug.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a seismologist with broad interests in structure of Earth's deep interior and mechanims of small seismic events.
 
+# Interests to show in About widget
 interests:
-- Structure of the Earth's deep interior
-- Mechanisms of seismic events
-- Seismic wave progration in complex media
+- Structure of the Earth's Deep Interior
+- Theory and Observations of Earthquake Source
+- Theory of Wave Propagation
 
+# Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Geophysics
@@ -57,24 +54,19 @@ social:
   link: https://seisman.info/
 - icon: envelope
   icon_pack: fas
-  link: mailto:tiandong@msu.edu
+  link: mailto:dtian@cug.edu.cn
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Dongdong_Tian_CV.pdf
+  link: uploads/Dongdong_Tian_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
 ---
 
 Dongdong Tian is a seismologist. His research is directed toward understanding
@@ -85,9 +77,10 @@ and seismic wave propagation in complex media.
 He received his Ph.D. degree in Geophysics from
 [University of Science and Technology of China](http://en.ustc.edu.cn/) in 2018,
 advised by [Prof. Lianxing Wen](http://geophysics.geo.sunysb.edu/wen/).
-Currently, he is a Postdoctoral Research Associate at
+After that, he was a Postdoctoral Research Associate at
 [Michigan State University](https://msu.edu/),
 collaborating with Prof. [Songqiao Shawn Wei](https://sites.google.com/a/msu.edu/swei/).
+Now he is an Associate Professor at [China University of Geosciences](https://en.cug.edu.cn).
 
 He is also a big fan of open-source and serves as a core developer of the
 {{< icon name="terminal" pack="fas" >}} [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/),
