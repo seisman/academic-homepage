@@ -7,6 +7,11 @@ header:
   image: ""
 ---
 
+### 2021
+
+- **2021-11-10**:
+  Dongdong joins China University of Geosciences (Wuhan) as an Associate Professor.
+
 ### 2020
 
 - **2020-10-22**:
@@ -40,7 +45,7 @@ header:
 ### 2018
 
 -   **2018-12-18**:
-    Dongdong join the core developer team of [the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/).
+    Dongdong joins the core developer team of [the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/).
 
 -   **2018-10-01**:
     Dongdong is awarded **President Award, Chinese Academy of Sciences**,
