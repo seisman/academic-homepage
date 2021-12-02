@@ -10,7 +10,13 @@ header:
 ### 2021
 
 - **2021-11-10**:
-  Dongdong joins China University of Geosciences (Wuhan) as an Associate Professor.
+  Dongdong joins China University of Geosciences (Wuhan) as an Associate Professor,
+  with ￥1,800K startup funding from CUG One Hundred Talents Program.
+
+- **2021-07-20**:
+  Dongdong serves as an instructor of
+  [the 2021 UNAVCO Short Course "The Generic Mapping Tools for Geodesy"](https://www.unavco.org/event/2021-short-course-gmt-for-geodesy/)
+  online via Zoom.
 
 ### 2020
 
@@ -44,49 +50,49 @@ header:
 
 ### 2018
 
--   **2018-12-18**:
-    Dongdong joins the core developer team of [the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/).
+- **2018-12-18**:
+  Dongdong joins the core developer team of [the Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/).
 
--   **2018-10-01**:
-    Dongdong is awarded **President Award, Chinese Academy of Sciences**,
-    the highest award for graduate students of Chinese Academy of Sciences.
+- **2018-10-01**:
+  Dongdong is awarded **President Award, Chinese Academy of Sciences**,
+  the highest award for graduate students of Chinese Academy of Sciences.
 
--   **2018-09-12**:
-    Our two papers about the seismic characteristics of North Korea's September 2017
-    nuclear test and its triggered aftershock sequences are published online
-    by **Seismological Research Letters**.
+- **2018-09-12**:
+  Our two papers about the seismic characteristics of North Korea's September 2017
+  nuclear test and its triggered aftershock sequences are published online
+  by **Seismological Research Letters**.
 
--   **2018-08-01**:
-    Dongdong has been officially hired as a postdoctoral Research Associate by Department of
-    Earth and Environmental Sciences, Michigan State University.
+- **2018-08-01**:
+  Dongdong has been officially hired as a postdoctoral Research Associate by Department of
+  Earth and Environmental Sciences, Michigan State University.
 
--   **2018-06-21**:
-    Dongdong has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
+- **2018-06-21**:
+  Dongdong has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
 
--   **2018-05-28**:
-    Dongdong has sucessfully defended his Ph.D. thesis.
+- **2018-05-28**:
+  Dongdong has sucessfully defended his Ph.D. thesis.
 
--   **2018-04-27**:
-    Our seismic analysis reveals that North Korea's 3 September 2017 nuclear test
-    has resulted in an on-site collapse toward the nuclear test center, and
-    possibly triggered an earthquake swarm ~8.4 km north of the test site.
-    The paper is published on [**Geophysical Research Letters**](https://doi.org/10.1029/2018GL077649).
+- **2018-04-27**:
+  Our seismic analysis reveals that North Korea's 3 September 2017 nuclear test
+  has resulted in an on-site collapse toward the nuclear test center, and
+  possibly triggered an earthquake swarm ~8.4 km north of the test site.
+  The paper is published on [**Geophysical Research Letters**](https://doi.org/10.1029/2018GL077649).
 
--   **2018-03-12**:
-    Dongdong is awarded the **Outstanding Graduate Student Award**
-    from University of Science and Technology of China.
+- **2018-03-12**:
+  Dongdong is awarded the **Outstanding Graduate Student Award**
+  from University of Science and Technology of China.
 
 ### 2017
 
--   **2017-11-30**:
-    Dongdong is awarded the **2017 CGU Outstanding Student Paper Award**
-    for his presentation at the 2017 CGU annual meeting.
+- **2017-11-30**:
+  Dongdong is awarded the **2017 CGU Outstanding Student Paper Award**
+  for his presentation at the 2017 CGU annual meeting.
 
--   **2017-11-20**:
-    Dongdong is awarded **the National Scholarship for Doctoral Students**
-    from the Ministry of Education, China.
+- **2017-11-20**:
+  Dongdong is awarded **the National Scholarship for Doctoral Students**
+  from the Ministry of Education, China.
 
--   **2017-08-01**:
-    We present the first seismological evidence for a localized mushy zone
-    across the Earth's inner core boundary beneath southwest Okhotsk Sea.
-    The paper is published on [**Nature Communications**](https://doi.org/10.1038/s41467-017-00229-9).
+- **2017-08-01**:
+  We present the first seismological evidence for a localized mushy zone
+  across the Earth's inner core boundary beneath southwest Okhotsk Sea.
+  The paper is published on [**Nature Communications**](https://doi.org/10.1038/s41467-017-00229-9).
