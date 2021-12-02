@@ -37,7 +37,7 @@ title: Curriculum Vitae
   [GMT China Community](http://gmt-china.org/) (since 2016) and
   [seismo‑learn](https://seismo-learn.org/) (since 2020)
 - Core developer of the [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org/)
-  and [PyGMT](https://www.pygmt.org/) (2018-present)
+  and [PyGMT](https://www.pygmt.org/) (2018–present)
 - Research Assistant and database manager for [China Seismological Reference Model](http://chinageorefmodel.org/) (2016–2018)
 - Judge for the Outstanding Student Paper Award, AGU Fall Meeting (2018–2019)
 - Instructor for the UNAVCO Short Course "The Generic Mapping Tools for Geodesy" (2019–2021)
@@ -48,13 +48,13 @@ title: Curriculum Vitae
 ### Awards & Honors
 
 - **2021:** One Hundred Talents Program, China University of Geosciences, China
-- **2018:** President Award, Chinese Academy of Science, China. [top 1%]
-- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China. [top 15%]
-- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China.
-- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China. [top 5%]
-- **2014:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China.
-- **2010:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China.
-- **2009:** Outstanding Volunteer, University of Science and Technology of China, China.
+- **2018:** President Award, Chinese Academy of Science, China
+- **2018:** Outstanding Graduate Student, University of Science and Technology of China, China
+- **2017:** Outstanding Student Paper Award, 2017 Annual Meeting of Chinese Geoscience Union, China
+- **2017:** National Scholarship for Doctoral Students, Ministry of Education, China
+- **2014:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
+- **2010:** Kwang-Hua Scholarship, Kwang-Hua Education Foundation, China
+- **2009:** Outstanding Volunteer, University of Science and Technology of China, China
 
 ---
 
